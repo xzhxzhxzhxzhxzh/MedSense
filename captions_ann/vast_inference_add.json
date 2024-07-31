@@ -1,0 +1,54 @@
+[
+    {
+        "video_id": "../inputs/add_set/xIomu6zZEpU.mp4@0",
+        "caption": [
+            [
+                "resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation."
+            ]
+        ],
+        "timestamp": [
+            1044,
+            1391
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/add_set/Cec1-mcZOp8.mp4@0",
+        "caption": [
+            [
+                "resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation."
+            ]
+        ],
+        "timestamp": [
+            392,
+            1026
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/add_set/mL-50vtXHdo&t=47s.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1816,
+            5204
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/add_set/mL-50vtXHdo&t=47s.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            70,
+            1621
+        ],
+        "event_id": 1
+    }
+]

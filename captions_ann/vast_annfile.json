@@ -1,0 +1,1505 @@
+{
+    "type": "caption",
+    "annotations": [
+        {
+            "video_id": "../inputs/val_set/wkF8OwsyNNQ.mp4@0",
+            "caption": [
+                "Applying pressure on the wound helps to control bleeding and promote clotting for faster healing.",
+                "Properly applying pressure on the wound can help stop the bleeding and prevent infection.",
+                "Gently applying pressure on the wound can aid in stopping the bleeding and promoting healing."
+            ],
+            "timestamp": [
+                696,
+                1152
+            ],
+            "event_id": 0,
+            "duration": 117.29166666666667,
+            "frame_count": 2815
+        },
+        {
+            "video_id": "../inputs/val_set/wkF8OwsyNNQ.mp4@1",
+            "caption": [
+                "Placing gauze inside the wound helps absorb any excess blood or fluids, promoting a clean healing environment.",
+                "Applying gauze to the wound can help protect it from external contaminants and promote proper healing.",
+                "Inserting gauze into the wound assists in absorbing any discharge and maintaining a sterile environment for healing."
+            ],
+            "timestamp": [
+                1367,
+                1728
+            ],
+            "event_id": 1,
+            "duration": 117.29166666666667,
+            "frame_count": 2815
+        },
+        {
+            "video_id": "../inputs/val_set/wkF8OwsyNNQ.mp4@2",
+            "caption": [
+                "Placing the tourniquet correctly is crucial in stopping severe bleeding in emergency situations.",
+                "Proper application of a tourniquet can effectively control excessive bleeding and save a life during emergencies.",
+                "Using a tourniquet appropriately can help stop profuse bleeding and provide vital time for medical assistance to arrive."
+            ],
+            "timestamp": [
+                2015,
+                2496
+            ],
+            "event_id": 2,
+            "duration": 117.29166666666667,
+            "frame_count": 2815
+        },
+        {
+            "video_id": "../inputs/val_set/wkF8OwsyNNQ.mp4@3",
+            "caption": [
+                "Packing a wound with sterile gauze can help promote healing and prevent infection.",
+                "Applying pressure to a wound with clean gauze can help stop bleeding and protect the area.",
+                "Using sterile gauze to pack a wound can help absorb excess fluids and promote proper healing."
+            ],
+            "timestamp": [
+                696,
+                2496
+            ],
+            "event_id": 3,
+            "duration": 117.29166666666667,
+            "frame_count": 2815
+        },
+        {
+            "video_id": "../inputs/val_set/CvW-Zq3NlkU.mp4@0",
+            "caption": [
+                "Relieving shoulder stress in just 60 seconds can be achieved through simple stretching exercises.",
+                "Applying gentle pressure and massaging the shoulder area can help alleviate stress and tension quickly.",
+                "Taking deep breaths and practicing relaxation techniques can effectively reduce shoulder stress within a minute."
+            ],
+            "timestamp": [
+                149,
+                2307
+            ],
+            "event_id": 0,
+            "duration": 83.3833,
+            "frame_count": 2499
+        },
+        {
+            "video_id": "../inputs/val_set/7lGE4OH0uJw.mp4@0",
+            "caption": [
+                "Properly applying a tourniquet can help locate veins more easily during medical procedures.",
+                "When a tourniquet is applied correctly, it can assist in identifying veins for medical purposes.",
+                "Applying a tourniquet in the right manner can aid in vein identification for medical procedures."
+            ],
+            "timestamp": [
+                3596,
+                4795
+            ],
+            "event_id": 0,
+            "duration": 500.8008008008008,
+            "frame_count": 15009
+        },
+        {
+            "video_id": "../inputs/val_set/7lGE4OH0uJw.mp4@1",
+            "caption": [
+                "Enlarging the veins through proper hydration and warm compresses can facilitate finding a suitable vein for injection.",
+                "Improving vein visibility can be achieved by applying gentle pressure and massaging the area before attempting an injection.",
+                "Increasing vein size can aid in locating a suitable injection site by ensuring proper blood flow and visibility."
+            ],
+            "timestamp": [
+                5574,
+                6143
+            ],
+            "event_id": 1,
+            "duration": 500.8008008008008,
+            "frame_count": 15009
+        },
+        {
+            "video_id": "../inputs/val_set/7lGE4OH0uJw.mp4@2",
+            "caption": [
+                "The reverse Esmarch technique can be used to improve vein visibility for easier injection administration.",
+                "Utilizing the reverse Esmarch technique aids in locating veins more effectively for successful injections.",
+                "Applying the reverse Esmarch technique helps in enhancing vein identification for smoother injection procedures."
+            ],
+            "timestamp": [
+                6923,
+                14685
+            ],
+            "event_id": 2,
+            "duration": 500.8008008008008,
+            "frame_count": 15009
+        },
+        {
+            "video_id": "../inputs/val_set/tr7JKUxwqwA.mp4@0",
+            "caption": [
+                "Resetting forward rounded shoulders using a towel and doorframe can help improve posture and alleviate shoulder pain.",
+                "Utilizing a towel and doorframe to reset forward rounded shoulders may aid in reducing tension and discomfort in the shoulder area.",
+                "Practicing shoulder resets with a towel and doorframe could promote better alignment and relieve strain on the shoulders."
+            ],
+            "timestamp": [
+                1649,
+                6389
+            ],
+            "event_id": 0,
+            "duration": 302.1,
+            "frame_count": 9063
+        },
+        {
+            "video_id": "../inputs/val_set/tr7JKUxwqwA.mp4@1",
+            "caption": [
+                "Leaning into a doorframe can help reset forward rounded shoulders and improve posture.",
+                "Correcting forward rounded shoulders through doorframe leaning can alleviate neck and back pain.",
+                "Utilizing a doorframe to reset forward rounded shoulders may promote better spinal alignment and reduce discomfort."
+            ],
+            "timestamp": [
+                6389,
+                8640
+            ],
+            "event_id": 1,
+            "duration": 302.1,
+            "frame_count": 9063
+        },
+        {
+            "video_id": "../inputs/val_set/G_AzQnDFaBU.mp4@0",
+            "caption": [
+                "Raising your legs to improve blood flow can help alleviate symptoms of varicose veins.",
+                "Elevating your legs is a simple way to enhance blood circulation and manage varicose veins effectively.",
+                "By raising your legs, you can promote better blood flow, which may aid in the treatment of varicose veins."
+            ],
+            "timestamp": [
+                983,
+                2397
+            ],
+            "event_id": 0,
+            "duration": 240.69879166666664,
+            "frame_count": 5771
+        },
+        {
+            "video_id": "../inputs/val_set/G_AzQnDFaBU.mp4@1",
+            "caption": [
+                "Performing bicycle leg exercises can help improve blood flow and potentially alleviate symptoms of varicose veins.",
+                "Regularly engaging in bicycle leg exercises may promote better circulation and aid in the treatment of varicose veins.",
+                "Incorporating bicycle leg exercises into your routine can support healthy blood flow and potentially reduce the appearance of varicose veins."
+            ],
+            "timestamp": [
+                2421,
+                3524
+            ],
+            "event_id": 1,
+            "duration": 240.69879166666664,
+            "frame_count": 5771
+        },
+        {
+            "video_id": "../inputs/val_set/G_AzQnDFaBU.mp4@2",
+            "caption": [
+                "Performing calf raises or heel raises can help improve blood flow and potentially alleviate symptoms of varicose veins.",
+                "Regularly engaging in calf raises or heel raises may promote better circulation and aid in the treatment of varicose veins.",
+                "Incorporating calf raises or heel raises into your daily routine can support blood flow and contribute to managing varicose veins."
+            ],
+            "timestamp": [
+                3596,
+                4483
+            ],
+            "event_id": 2,
+            "duration": 240.69879166666664,
+            "frame_count": 5771
+        },
+        {
+            "video_id": "../inputs/val_set/G_AzQnDFaBU.mp4@3",
+            "caption": [
+                "Performing squats can help improve blood flow, potentially aiding in the treatment of varicose veins.",
+                "Regularly incorporating squats into your exercise routine may enhance blood circulation, which could benefit the treatment of varicose veins.",
+                "Engaging in squats can promote better blood flow, which may be beneficial in managing varicose veins."
+            ],
+            "timestamp": [
+                4483,
+                5442
+            ],
+            "event_id": 3,
+            "duration": 240.69879166666664,
+            "frame_count": 5771
+        },
+        {
+            "video_id": "../inputs/val_set/E92qqAftUak.mp4@0",
+            "caption": [
+                "Performing a sinus rinse can help clear nasal passages and alleviate congestion.",
+                "Regularly using a sinus rinse can reduce sinus inflammation and improve breathing.",
+                "Incorporating a sinus rinse into your daily routine can promote sinus health and prevent infections."
+            ],
+            "timestamp": [
+                1260,
+                1920
+            ],
+            "event_id": 0,
+            "duration": 77.33333333333333,
+            "frame_count": 2320
+        },
+        {
+            "video_id": "../inputs/val_set/AtKU8zw2Jxg.mp4@0",
+            "caption": [
+                "Chin tucks can help alleviate neck stiffness by strengthening the muscles in the neck and improving posture.",
+                "Regularly practicing chin tucks can reduce neck stiffness by promoting proper alignment of the cervical spine.",
+                "Incorporating chin tucks into your daily routine can relieve neck stiffness by increasing flexibility and reducing muscle tension."
+            ],
+            "timestamp": [
+                600,
+                2232
+            ],
+            "event_id": 0,
+            "duration": 595.375,
+            "frame_count": 14289
+        },
+        {
+            "video_id": "../inputs/val_set/AtKU8zw2Jxg.mp4@1",
+            "caption": [
+                "Performing snags with a towel can help alleviate neck stiffness and improve range of motion.",
+                "Regularly using a towel for snags can provide relief from neck stiffness and promote better neck mobility.",
+                "Incorporating towel snags into your daily routine may help reduce neck stiffness and increase flexibility."
+            ],
+            "timestamp": [
+                2232,
+                4752
+            ],
+            "event_id": 1,
+            "duration": 595.375,
+            "frame_count": 14289
+        },
+        {
+            "video_id": "../inputs/val_set/AtKU8zw2Jxg.mp4@2",
+            "caption": [
+                "Performing neck extensions with a towel can help alleviate neck stiffness and improve range of motion.",
+                "Regularly practicing neck extensions with a towel may relieve neck stiffness and promote better neck mobility.",
+                "Incorporating neck extensions with a towel into your daily routine can aid in reducing neck stiffness and enhancing neck flexibility."
+            ],
+            "timestamp": [
+                4776,
+                7224
+            ],
+            "event_id": 2,
+            "duration": 595.375,
+            "frame_count": 14289
+        },
+        {
+            "video_id": "../inputs/val_set/AtKU8zw2Jxg.mp4@3",
+            "caption": [
+                "Using a towel to perform neck turns can help alleviate neck stiffness and improve range of motion.",
+                "Incorporating neck turns with a towel into your daily routine may relieve neck stiffness and promote better neck mobility.",
+                "Regularly practicing neck turns with a towel can aid in reducing neck stiffness and enhancing neck flexibility."
+            ],
+            "timestamp": [
+                7583,
+                9240
+            ],
+            "event_id": 3,
+            "duration": 595.375,
+            "frame_count": 14289
+        },
+        {
+            "video_id": "../inputs/val_set/AtKU8zw2Jxg.mp4@4",
+            "caption": [
+                "Performing levator scapular stretches can help alleviate neck stiffness and improve range of motion.",
+                "Regularly stretching the levator scapular muscles may reduce neck stiffness and enhance overall neck mobility.",
+                "Incorporating levator scapular stretches into your daily routine can relieve neck stiffness and promote better posture."
+            ],
+            "timestamp": [
+                9264,
+                12264
+            ],
+            "event_id": 4,
+            "duration": 595.375,
+            "frame_count": 14289
+        },
+        {
+            "video_id": "../inputs/val_set/AtKU8zw2Jxg.mp4@5",
+            "caption": [
+                "Performing upper trap stretches can help alleviate neck stiffness and improve range of motion.",
+                "Regularly stretching the upper traps can reduce tension in the neck and promote better posture.",
+                "Incorporating upper trap stretches into your daily routine may relieve neck stiffness and prevent future discomfort."
+            ],
+            "timestamp": [
+                12288,
+                13896
+            ],
+            "event_id": 5,
+            "duration": 595.375,
+            "frame_count": 14289
+        },
+        {
+            "video_id": "../inputs/val_set/N59oOxyaE1A.mp4@0",
+            "caption": [
+                "Massaging the area where the neck meets the skull can help alleviate neck pain and tension.",
+                "Applying gentle pressure to the junction of the neck and skull may provide relief from neck pain and tension.",
+                "Regularly massaging the neck and skull junction can help reduce discomfort and tension in the neck area."
+            ],
+            "timestamp": [
+                3236,
+                6443
+            ],
+            "event_id": 0,
+            "duration": 617.1498666666666,
+            "frame_count": 18496
+        },
+        {
+            "video_id": "../inputs/val_set/N59oOxyaE1A.mp4@1",
+            "caption": [
+                "Relieving neck pain can be achieved through chin tucks and using a towel or strap for added support.",
+                "Chin tucks and the use of a towel or strap can help alleviate neck pain effectively.",
+                "Neck pain relief is possible by practicing chin tucks and utilizing a towel or strap for assistance."
+            ],
+            "timestamp": [
+                7192,
+                11838
+            ],
+            "event_id": 1,
+            "duration": 617.1498666666666,
+            "frame_count": 18496
+        },
+        {
+            "video_id": "../inputs/val_set/N59oOxyaE1A.mp4@2",
+            "caption": [
+                "Rotating your neck gently can help alleviate neck pain by improving blood circulation and reducing muscle tension.",
+                "Incorporating neck rotation exercises into your daily routine may provide relief from neck pain by promoting flexibility and reducing stiffness.",
+                "Regularly practicing neck rotation movements can help ease neck pain by loosening tight muscles and improving range of motion."
+            ],
+            "timestamp": [
+                11988,
+                14985
+            ],
+            "event_id": 2,
+            "duration": 617.1498666666666,
+            "frame_count": 18496
+        },
+        {
+            "video_id": "../inputs/val_set/t8AU9mWIsqI.mp4@0",
+            "caption": [
+                "Inspecting and palpating the biceps muscles can help identify any abnormalities or injuries.",
+                "Carefully examining and feeling the biceps muscles can provide valuable information about their condition.",
+                "Conducting a thorough inspection and palpation of the biceps muscles is essential for assessing their health and function."
+            ],
+            "timestamp": [
+                875,
+                1725
+            ],
+            "event_id": 0,
+            "duration": 84.84,
+            "frame_count": 2121
+        },
+        {
+            "video_id": "../inputs/val_set/gJOMV2mZ1B0.mp4@0",
+            "caption": [
+                "Applying an ice pack can help reduce swelling and alleviate pain in the affected area.",
+                "Using an ice pack correctly can effectively decrease swelling and relieve pain.",
+                "Properly applying an ice pack can assist in reducing inflammation and easing discomfort."
+            ],
+            "timestamp": [
+                600,
+                1500
+            ],
+            "event_id": 0,
+            "duration": 71.3,
+            "frame_count": 2139
+        },
+        {
+            "video_id": "../inputs/val_set/71LlfdW548U.mp4@0",
+            "caption": [
+                "Drawing arterial blood from the radial artery is essential for obtaining a blood gas sample.",
+                "The process of extracting arterial blood from the radial artery is crucial in analyzing blood gas levels.",
+                "Collecting arterial blood from the radial artery is a necessary step in conducting blood gas analysis."
+            ],
+            "timestamp": [
+                250,
+                6499
+            ],
+            "event_id": 0,
+            "duration": 311.04,
+            "frame_count": 7776
+        },
+        {
+            "video_id": "../inputs/val_set/71LlfdW548U.mp4@1",
+            "caption": [
+                "Practicing drawing blood from a venipuncture trainer is essential for medical students to develop their phlebotomy skills.",
+                "Mastering the technique of drawing blood from a venipuncture trainer is crucial for healthcare professionals in various clinical settings.",
+                "Regularly honing the skill of drawing blood from a venipuncture trainer can improve accuracy and efficiency in blood collection procedures."
+            ],
+            "timestamp": [
+                6499,
+                7774
+            ],
+            "event_id": 1,
+            "duration": 311.04,
+            "frame_count": 7776
+        },
+        {
+            "video_id": "../inputs/val_set/5GO18A5-ZtQ.mp4@0",
+            "caption": [
+                "Applying wipes gently to remove dry skin from the neck and chest can help improve skin health and appearance.",
+                "Using wipes to exfoliate dry skin on the neck and chest can promote smoother and healthier skin.",
+                "Regularly applying wipes to the neck and chest can aid in removing dry skin, leading to improved skin texture and hydration."
+            ],
+            "timestamp": [
+                3500,
+                3740
+            ],
+            "event_id": 0,
+            "duration": 572.4051666666667,
+            "frame_count": 13724
+        },
+        {
+            "video_id": "../inputs/val_set/5GO18A5-ZtQ.mp4@1",
+            "caption": [
+                "Applying wipes gently to remove dry skin from the arm and shoulder can help improve skin health and appearance.",
+                "Using wipes to exfoliate dry skin on the arm and shoulder can promote smoother and healthier skin.",
+                "Regularly applying wipes to the arm and shoulder can help remove dead skin cells and improve overall skin texture."
+            ],
+            "timestamp": [
+                3788,
+                4027
+            ],
+            "event_id": 1,
+            "duration": 572.4051666666667,
+            "frame_count": 13724
+        },
+        {
+            "video_id": "../inputs/val_set/5GO18A5-ZtQ.mp4@2",
+            "caption": [
+                "Applying wipes to gently remove dry skin from the right and left hip can help improve skin health and prevent irritation.",
+                "Using wipes to exfoliate dry skin on the right and left hip can promote smoother skin texture and reduce discomfort.",
+                "Regularly applying wipes to remove dry skin from the right and left hip can aid in maintaining healthy skin and preventing potential skin issues."
+            ],
+            "timestamp": [
+                4075,
+                4435
+            ],
+            "event_id": 2,
+            "duration": 572.4051666666667,
+            "frame_count": 13724
+        },
+        {
+            "video_id": "../inputs/val_set/5GO18A5-ZtQ.mp4@3",
+            "caption": [
+                "Applying wipes gently to remove dry skin from the leg and foot can help improve skin health and prevent further irritation.",
+                "Using wipes to carefully remove dry skin from the leg and foot can promote better skin hydration and reduce discomfort.",
+                "Regularly applying wipes to remove dry skin from the leg and foot can aid in maintaining healthy skin and preventing potential infections."
+            ],
+            "timestamp": [
+                4507,
+                5010
+            ],
+            "event_id": 3,
+            "duration": 572.4051666666667,
+            "frame_count": 13724
+        },
+        {
+            "video_id": "../inputs/val_set/5GO18A5-ZtQ.mp4@4",
+            "caption": [
+                "Applying wipes gently to remove dry skin from the back can help improve skin health and prevent irritation.",
+                "Using wipes to exfoliate dry skin on the back can promote smoother skin texture and reduce discomfort.",
+                "Regularly applying wipes to the back to remove dry skin can enhance overall skin appearance and prevent flakiness."
+            ],
+            "timestamp": [
+                5034,
+                5322
+            ],
+            "event_id": 4,
+            "duration": 572.4051666666667,
+            "frame_count": 13724
+        },
+        {
+            "video_id": "../inputs/val_set/5GO18A5-ZtQ.mp4@5",
+            "caption": [
+                "Applying mupirocin ointment inside the nostrils can effectively eliminate staph aureus bacteria from the nose.",
+                "Regular use of mupirocin ointment in the nasal passages can help eradicate staph aureus bacteria residing in the nose.",
+                "Utilizing mupirocin ointment as directed can assist in clearing staph aureus infection from the nasal cavity."
+            ],
+            "timestamp": [
+                7504,
+                8535
+            ],
+            "event_id": 5,
+            "duration": 572.4051666666667,
+            "frame_count": 13724
+        },
+        {
+            "video_id": "../inputs/val_set/O1kiguGUt3o.mp4@0",
+            "caption": [
+                "A first degree (mild) burn can be treated by running cool water over the affected area to soothe the skin.",
+                "Applying aloe vera gel on a first degree (mild) burn can help reduce pain and promote healing.",
+                "Covering a first degree (mild) burn with a sterile bandage can protect the skin and prevent infection."
+            ],
+            "timestamp": [
+                270,
+                2850
+            ],
+            "event_id": 0,
+            "duration": 97.06666666666666,
+            "frame_count": 2912
+        },
+        {
+            "video_id": "../inputs/val_set/Dubih8EzBJQ.mp4@0",
+            "caption": [
+                "Manual defibrillation using external paddles involves placing the paddles on the patient's chest and delivering a controlled electric shock to restore normal heart rhythm.",
+                "When performing manual defibrillation with external paddles, ensure proper placement on the patient's chest and follow recommended protocols for delivering the electric shock.",
+                "Using external paddles for manual defibrillation requires precise positioning on the patient's chest and delivering a carefully calibrated electric shock to treat cardiac arrhythmias."
+            ],
+            "timestamp": [
+                671,
+                2301
+            ],
+            "event_id": 0,
+            "duration": 104.56279166666666,
+            "frame_count": 2507
+        },
+        {
+            "video_id": "../inputs/val_set/r21kAatSVqc.mp4@0",
+            "caption": [
+                "Performing a standing quadricep stretch can help alleviate pain in the thigh muscles.",
+                "Regularly incorporating a standing quadricep stretch into your routine may provide relief from thigh muscle discomfort.",
+                "Including a standing quadricep stretch in your daily exercise regimen could reduce pain and improve muscle flexibility."
+            ],
+            "timestamp": [
+                624,
+                6792
+            ],
+            "event_id": 0,
+            "duration": 309.5833333333333,
+            "frame_count": 7430
+        },
+        {
+            "video_id": "../inputs/val_set/ea1RJUOiNfQ.mp4@0",
+            "caption": [
+                "Assessing someone who has collapsed or is unconscious involves checking for responsiveness, breathing, and pulse.",
+                "When someone collapses or becomes unconscious, it is crucial to assess their responsiveness, breathing, and pulse immediately.",
+                "In the event of a collapse or unconsciousness, the first step is to assess the individual's responsiveness, breathing, and pulse for proper evaluation."
+            ],
+            "timestamp": [
+                949,
+                5475
+            ],
+            "event_id": 0,
+            "duration": 242.8,
+            "frame_count": 6070
+        },
+        {
+            "video_id": "../inputs/val_set/SH-zKg26KCE.mp4@0",
+            "caption": [
+                "Measuring jaw opening using a cork can help assess the range of motion in the temporomandibular joint.",
+                "Using a cork to measure jaw opening allows for monitoring changes in jaw mobility over time.",
+                "Assessing jaw opening with a cork provides valuable information on temporomandibular joint function."
+            ],
+            "timestamp": [
+                3476,
+                3896
+            ],
+            "event_id": 0,
+            "duration": 464.89776666666666,
+            "frame_count": 13933
+        },
+        {
+            "video_id": "../inputs/val_set/SH-zKg26KCE.mp4@1",
+            "caption": [
+                "Applying moist heat can help reduce muscle tension and provide relief for a locked jaw.",
+                "Moist heat application is effective in easing muscle tension and alleviating a locked jaw.",
+                "Using moist heat can relax muscles and decrease tension, aiding in the treatment of a locked jaw."
+            ],
+            "timestamp": [
+                5634,
+                6833
+            ],
+            "event_id": 1,
+            "duration": 464.89776666666666,
+            "frame_count": 13933
+        },
+        {
+            "video_id": "../inputs/val_set/SH-zKg26KCE.mp4@2",
+            "caption": [
+                "Measuring the jaw opening using fingers can help assess the range of motion and potential issues with jaw mobility.",
+                "By using fingers to measure jaw opening, healthcare providers can evaluate the functionality of the temporomandibular joint.",
+                "Assessing jaw opening with fingers is a simple technique to monitor jaw health and detect any abnormalities."
+            ],
+            "timestamp": [
+                7042,
+                7732
+            ],
+            "event_id": 2,
+            "duration": 464.89776666666666,
+            "frame_count": 13933
+        },
+        {
+            "video_id": "../inputs/val_set/SH-zKg26KCE.mp4@3",
+            "caption": [
+                "Using a cork to unlock a locked jaw can provide temporary relief and help relax the jaw muscles.",
+                "Applying pressure with a cork to release a locked jaw may alleviate discomfort and improve jaw mobility.",
+                "Utilizing a cork to loosen a locked jaw can help ease tension and promote jaw movement."
+            ],
+            "timestamp": [
+                10969,
+                11508
+            ],
+            "event_id": 3,
+            "duration": 464.89776666666666,
+            "frame_count": 13933
+        },
+        {
+            "video_id": "../inputs/val_set/LK3dQdj8YWQ.mp4@0",
+            "caption": [
+                "Stimulating the vagus nerve can potentially improve mental health by regulating mood and reducing stress levels.",
+                "Activating the vagus nerve may contribute to better mental health outcomes through its impact on emotional well-being and cognitive function.",
+                "Enhancing vagus nerve stimulation has been linked to positive mental health outcomes, including improved mood and reduced anxiety."
+            ],
+            "timestamp": [
+                14273,
+                15196
+            ],
+            "event_id": 0,
+            "duration": 780.9248942882073,
+            "frame_count": 23270
+        },
+        {
+            "video_id": "../inputs/val_set/LK3dQdj8YWQ.mp4@1",
+            "caption": [
+                "Chanting regularly may help manage tinnitus symptoms and promote relaxation in individuals experiencing this condition.",
+                "Incorporating chanting into a daily routine can provide relief from tinnitus and support overall mental well-being.",
+                "Utilizing chanting as a coping mechanism may offer comfort and distraction for those dealing with tinnitus."
+            ],
+            "timestamp": [
+                15673,
+                16359
+            ],
+            "event_id": 1,
+            "duration": 780.9248942882073,
+            "frame_count": 23270
+        },
+        {
+            "video_id": "../inputs/val_set/2oXoiQfija4.mp4@0",
+            "caption": [
+                "Diaphragmatic breathing while lying down can help improve lung function and promote relaxation.",
+                "Practicing diaphragmatic breathing in a reclined position may aid in reducing stress and enhancing oxygen flow in the body.",
+                "Incorporating diaphragmatic breathing techniques while lying down can support respiratory health and calm the mind."
+            ],
+            "timestamp": [
+                5994,
+                6623
+            ],
+            "event_id": 0,
+            "duration": 407.3736333333333,
+            "frame_count": 12209
+        },
+        {
+            "video_id": "../inputs/val_set/2oXoiQfija4.mp4@1",
+            "caption": [
+                "Box breathing involves inhaling, holding, exhaling, and holding your breath in a specific pattern to promote relaxation and reduce stress.",
+                "Practicing box breathing can help calm your mind and body, promoting a sense of peace and tranquility.",
+                "Incorporating box breathing into your daily routine may improve your mental clarity and overall well-being."
+            ],
+            "timestamp": [
+                7462,
+                8001
+            ],
+            "event_id": 1,
+            "duration": 407.3736333333333,
+            "frame_count": 12209
+        },
+        {
+            "video_id": "../inputs/val_set/2oXoiQfija4.mp4@2",
+            "caption": [
+                "Practicing the four, seven, eight breathing exercise can aid in reducing anxiety levels.",
+                "Implementing the four, seven, eight breathing technique may help alleviate feelings of anxiety.",
+                "Regularly performing the four, seven, eight breathing exercise can contribute to managing anxiety effectively."
+            ],
+            "timestamp": [
+                8931,
+                9350
+            ],
+            "event_id": 2,
+            "duration": 407.3736333333333,
+            "frame_count": 12209
+        },
+        {
+            "video_id": "../inputs/val_set/2oXoiQfija4.mp4@3",
+            "caption": [
+                "Engaging in a third breathing exercise can effectively reduce anxiety levels.",
+                "Practicing a specific breathing technique as a third exercise may aid in alleviating anxiety symptoms.",
+                "Incorporating a third breathing exercise into your routine can help manage and reduce feelings of anxiety."
+            ],
+            "timestamp": [
+                9620,
+                10429
+            ],
+            "event_id": 3,
+            "duration": 407.3736333333333,
+            "frame_count": 12209
+        },
+        {
+            "video_id": "../inputs/val_set/hXYd0WRhzN4.mp4@0",
+            "caption": [
+                "Regular skin checks are essential for detecting signs of skin cancer early.",
+                "Being vigilant about changes in moles or skin pigmentation can help in the early detection of skin cancer.",
+                "Regularly monitoring your skin for any unusual growths or changes can aid in the early detection of skin cancer."
+            ],
+            "timestamp": [
+                0,
+                2445
+            ],
+            "event_id": 0,
+            "duration": 112.6125,
+            "frame_count": 2700
+        },
+        {
+            "video_id": "../inputs/val_set/6rK3QDN8MF8.mp4@0",
+            "caption": [
+                "Gently massaging the affected area and applying heat can help alleviate a crick in your neck.",
+                "Avoiding sudden movements and practicing good posture can prevent cricks in the neck.",
+                "Seeking professional advice and performing neck exercises can address and prevent neck cricks."
+            ],
+            "timestamp": [
+                0,
+                389
+            ],
+            "event_id": 0,
+            "duration": 45.9459,
+            "frame_count": 1377
+        },
+        {
+            "video_id": "../inputs/val_set/NxO5LvgqZe0.mp4@0",
+            "caption": [
+                "Someone bleeding severely requires immediate pressure on the wound to control bleeding and seeking emergency medical assistance.",
+                "In case of severe bleeding, apply pressure to the wound and elevate the affected area while waiting for medical help.",
+                "If someone is bleeding severely, it is crucial to apply pressure on the wound and call for emergency medical services promptly."
+            ],
+            "timestamp": [
+                1300,
+                5500
+            ],
+            "event_id": 0,
+            "duration": 289.44,
+            "frame_count": 7236
+        },
+        {
+            "video_id": "../inputs/val_set/UrC0lUVWZ00.mp4@0",
+            "caption": [
+                "Performing a thorough head to toe assessment is essential for evaluating a patient's overall health status.",
+                "Conducting a head to toe assessment allows healthcare providers to identify any potential medical issues or abnormalities.",
+                "Completing a head to toe assessment helps healthcare professionals gather comprehensive information about a patient's physical condition."
+            ],
+            "timestamp": [
+                249,
+                5875
+            ],
+            "event_id": 0,
+            "duration": 262.88,
+            "frame_count": 6572
+        },
+        {
+            "video_id": "../inputs/val_set/pYzUQb79_Rw.mp4@0",
+            "caption": [
+                "Ensure your crutches fit properly by checking the height and armrest position to avoid discomfort and prevent potential injuries.",
+                "Properly fitted crutches should align with your armpits and allow for a slight bend in your elbows to ensure optimal support and stability.",
+                "Adjust your crutches to the correct height and position to ensure proper weight distribution and prevent unnecessary strain on your body."
+            ],
+            "timestamp": [
+                503,
+                2109
+            ],
+            "event_id": 0,
+            "duration": 325.07475,
+            "frame_count": 7794
+        },
+        {
+            "video_id": "../inputs/val_set/pYzUQb79_Rw.mp4@1",
+            "caption": [
+                "Standing up with crutches involves placing them under your arms for support and pushing yourself up using your unaffected leg.",
+                "Using crutches to stand up requires proper positioning and balance to avoid putting weight on the injured leg.",
+                "When standing up with crutches, ensure to distribute your weight evenly and use your upper body strength for support."
+            ],
+            "timestamp": [
+                2133,
+                2997
+            ],
+            "event_id": 1,
+            "duration": 325.07475,
+            "frame_count": 7794
+        },
+        {
+            "video_id": "../inputs/val_set/pYzUQb79_Rw.mp4@2",
+            "caption": [
+                "Sitting down with crutches involves carefully positioning yourself to avoid putting weight on the injured leg.",
+                "When using crutches, it is important to sit down slowly and steadily to prevent any strain on the body.",
+                "Properly sitting down with crutches requires balancing your weight evenly to avoid any discomfort or injury."
+            ],
+            "timestamp": [
+                3020,
+                3932
+            ],
+            "event_id": 2,
+            "duration": 325.07475,
+            "frame_count": 7794
+        },
+        {
+            "video_id": "../inputs/val_set/pYzUQb79_Rw.mp4@3",
+            "caption": [
+                "Properly walking with crutches involves keeping your weight off the injured leg to avoid putting pressure on it.",
+                "Using crutches correctly requires distributing your weight evenly between your arms and legs to maintain balance and stability.",
+                "Walking with crutches necessitates adjusting the height of the crutches to ensure proper support and comfort while moving."
+            ],
+            "timestamp": [
+                4195,
+                4987
+            ],
+            "event_id": 3,
+            "duration": 325.07475,
+            "frame_count": 7794
+        },
+        {
+            "video_id": "../inputs/val_set/pYzUQb79_Rw.mp4@4",
+            "caption": [
+                "Climbing stairs with crutches requires proper technique to avoid falls and strain on the arms and shoulders.",
+                "Using crutches to ascend stairs necessitates coordination and balance to prevent accidents and overexertion.",
+                "Ascending stairs with crutches demands caution and focus to ensure safety and minimize discomfort in the affected leg."
+            ],
+            "timestamp": [
+                5010,
+                6281
+            ],
+            "event_id": 4,
+            "duration": 325.07475,
+            "frame_count": 7794
+        },
+        {
+            "video_id": "../inputs/val_set/pYzUQb79_Rw.mp4@5",
+            "caption": [
+                "Using crutches to navigate stairs involves placing your weight on the handrail and crutches for support while descending.",
+                "When going downstairs with crutches, remember to lead with your unaffected leg and keep your injured leg elevated to avoid putting weight on it.",
+                "Descending stairs with crutches requires careful coordination between your upper body and legs to ensure stability and safety."
+            ],
+            "timestamp": [
+                6305,
+                7024
+            ],
+            "event_id": 5,
+            "duration": 325.07475,
+            "frame_count": 7794
+        },
+        {
+            "video_id": "../inputs/val_set/RLr6uW2DdFo.mp4@0",
+            "caption": [
+                "Gently applying compression on a baby's wound can help control bleeding and promote healing.",
+                "Properly administering compression on a baby's injury can aid in stopping bleeding and supporting the healing process.",
+                "Carefully applying compression on a baby's wound is essential for managing bleeding and facilitating recovery."
+            ],
+            "timestamp": [
+                899,
+                4315
+            ],
+            "event_id": 0,
+            "duration": 150.61713333333333,
+            "frame_count": 4514
+        },
+        {
+            "video_id": "../inputs/val_set/nopgqBoUmYg.mp4@0",
+            "caption": [
+                "Collecting a blood gas sample from an arterial line is essential for monitoring oxygen and carbon dioxide levels in the blood.",
+                "Properly extracting a blood gas sample from an arterial line allows for accurate assessment of respiratory function and acid-base balance.",
+                "Obtaining a blood gas sample from an arterial line is crucial for evaluating the patient's oxygenation and ventilation status."
+            ],
+            "timestamp": [
+                50,
+                2400
+            ],
+            "event_id": 0,
+            "duration": 102.4,
+            "frame_count": 2560
+        },
+        {
+            "video_id": "../inputs/val_set/O02y-FXjm6M.mp4@0",
+            "caption": [
+                "The huff coughing technique can effectively help clear mucus or phlegm from the throat.",
+                "Utilizing the huff coughing technique aids in expelling excess mucus or phlegm in the throat.",
+                "Practicing the huff coughing technique assists in removing throat mucus or phlegm for improved breathing."
+            ],
+            "timestamp": [
+                3900,
+                5159
+            ],
+            "event_id": 0,
+            "duration": 600.4666666666667,
+            "frame_count": 18014
+        },
+        {
+            "video_id": "../inputs/val_set/O02y-FXjm6M.mp4@1",
+            "caption": [
+                "Eucalyptus oil can be applied topically or inhaled to help alleviate mucus or phlegm in the throat.",
+                "Using eucalyptus oil as a natural remedy may assist in clearing mucus or phlegm from the throat.",
+                "Incorporating eucalyptus oil into your routine can aid in reducing throat congestion caused by mucus or phlegm."
+            ],
+            "timestamp": [
+                12720,
+                14340
+            ],
+            "event_id": 1,
+            "duration": 600.4666666666667,
+            "frame_count": 18014
+        },
+        {
+            "video_id": "../inputs/val_set/eOsY84oYqKg.mp4@0",
+            "caption": [
+                "Using the lancing device involves placing it against the skin and pressing the button to obtain a blood sample.",
+                "Properly utilizing the lancing device includes adjusting the depth setting and selecting a clean lancet for each use.",
+                "Familiarizing yourself with the lancing device's instructions ensures accurate blood sampling for glucose monitoring."
+            ],
+            "timestamp": [
+                999,
+                2824
+            ],
+            "event_id": 0,
+            "duration": 294.6,
+            "frame_count": 7365
+        },
+        {
+            "video_id": "../inputs/val_set/eOsY84oYqKg.mp4@1",
+            "caption": [
+                "Using a blood glucose meter involves pricking your finger to obtain a small blood sample for testing your blood sugar levels.",
+                "Regularly checking your blood glucose levels with a meter helps monitor your diabetes management and adjust your treatment plan accordingly.",
+                "Properly using a blood glucose meter allows you to track your blood sugar levels and make informed decisions about your diet and medication."
+            ],
+            "timestamp": [
+                3974,
+                5624
+            ],
+            "event_id": 1,
+            "duration": 294.6,
+            "frame_count": 7365
+        },
+        {
+            "video_id": "../inputs/val_set/eOsY84oYqKg.mp4@2",
+            "caption": [
+                "Placing blood drops on testing strips is essential for accurate blood glucose monitoring.",
+                "Properly applying blood drops on testing strips ensures reliable results for monitoring blood sugar levels.",
+                "Correctly positioning blood drops on testing strips is crucial for obtaining precise readings during blood glucose testing."
+            ],
+            "timestamp": [
+                5124,
+                5375
+            ],
+            "event_id": 2,
+            "duration": 294.6,
+            "frame_count": 7365
+        },
+        {
+            "video_id": "../inputs/val_set/RRLY6anXXQo.mp4@0",
+            "caption": [
+                "Using a peak flow meter regularly can help monitor your lung function and manage conditions like asthma.",
+                "Incorporating a peak flow meter into your daily routine allows you to track changes in your breathing patterns and adjust your treatment plan accordingly.",
+                "Regularly checking your peak flow readings with a peak flow meter can provide valuable insights into your respiratory health and help you take proactive measures to maintain it."
+            ],
+            "timestamp": [
+                527,
+                1390
+            ],
+            "event_id": 0,
+            "duration": 70.07,
+            "frame_count": 1680
+        },
+        {
+            "video_id": "../inputs/val_set/KMpG4A1-dZ4.mp4@0",
+            "caption": [
+                "Internal bleeding can present with symptoms such as dizziness, weakness, and abdominal pain.",
+                "Signs of internal bleeding include pale skin, rapid heartbeat, and confusion.",
+                "Symptoms of internal bleeding may include vomiting blood, black stools, and fainting episodes."
+            ],
+            "timestamp": [
+                1020,
+                1740
+            ],
+            "event_id": 0,
+            "duration": 249.76666666666668,
+            "frame_count": 7493
+        },
+        {
+            "video_id": "../inputs/val_set/KMpG4A1-dZ4.mp4@1",
+            "caption": [
+                "Internal bleeding requires immediate medical attention to prevent further complications.",
+                "Treatment for internal bleeding may involve surgery to stop the bleeding and repair any damaged blood vessels.",
+                "In cases of internal bleeding, it is crucial to seek medical help promptly to prevent life-threatening consequences."
+            ],
+            "timestamp": [
+                1740,
+                2880
+            ],
+            "event_id": 1,
+            "duration": 249.76666666666668,
+            "frame_count": 7493
+        },
+        {
+            "video_id": "../inputs/val_set/KMpG4A1-dZ4.mp4@2",
+            "caption": [
+                "Immediate medical attention is crucial for treating shock effectively.",
+                "Shock requires prompt intervention to stabilize the patient's condition.",
+                "Treatment for shock involves addressing the underlying cause and restoring adequate blood flow."
+            ],
+            "timestamp": [
+                5820,
+                6900
+            ],
+            "event_id": 2,
+            "duration": 249.76666666666668,
+            "frame_count": 7493
+        },
+        {
+            "video_id": "../inputs/val_set/ko-uitcuY8Q.mp4@0",
+            "caption": [
+                "Self-massage techniques can be used to alleviate foot pain effectively.",
+                "Applying self-massage to the feet can help reduce discomfort and promote relaxation.",
+                "Regular self-massage on the feet may provide relief from pain and improve overall foot health."
+            ],
+            "timestamp": [
+                1350,
+                6210
+            ],
+            "event_id": 0,
+            "duration": 546.4333333333333,
+            "frame_count": 16393
+        },
+        {
+            "video_id": "../inputs/val_set/ko-uitcuY8Q.mp4@1",
+            "caption": [
+                "Stretching the foot regularly can help alleviate foot pain and improve overall foot health.",
+                "Incorporating foot stretches into your daily routine may provide relief from foot pain and enhance flexibility.",
+                "Regularly stretching the foot muscles can help reduce discomfort and promote better foot function."
+            ],
+            "timestamp": [
+                6450,
+                13200
+            ],
+            "event_id": 1,
+            "duration": 546.4333333333333,
+            "frame_count": 16393
+        },
+        {
+            "video_id": "../inputs/val_set/ko-uitcuY8Q.mp4@2",
+            "caption": [
+                "Strengthening the foot muscles through exercises can help alleviate foot pain.",
+                "Regularly practicing foot strengthening exercises may reduce discomfort and improve overall foot health.",
+                "Incorporating foot strengthening routines into your daily activities can provide relief from foot pain."
+            ],
+            "timestamp": [
+                13680,
+                16020
+            ],
+            "event_id": 2,
+            "duration": 546.4333333333333,
+            "frame_count": 16393
+        },
+        {
+            "video_id": "../inputs/val_set/ompjhYbkYJQ.mp4@0",
+            "caption": [
+                "Regularly doing hip flexion exercises can help alleviate pain associated with hip arthritis.",
+                "Incorporating hip flexion exercises into your daily routine may provide relief from hip arthritis discomfort.",
+                "Consistent practice of hip flexion exercises may reduce hip arthritis pain and improve mobility."
+            ],
+            "timestamp": [
+                4765,
+                7252
+            ],
+            "event_id": 0,
+            "duration": 486.71956666666665,
+            "frame_count": 14587
+        },
+        {
+            "video_id": "../inputs/val_set/ompjhYbkYJQ.mp4@1",
+            "caption": [
+                "Performing hip flexion and extension exercises can help alleviate pain caused by hip arthritis.",
+                "Regularly engaging in hip flexion and extension movements may provide relief from discomfort associated with hip arthritis.",
+                "Incorporating hip flexion and extension exercises into your daily routine can help manage the pain of hip arthritis."
+            ],
+            "timestamp": [
+                7282,
+                8331
+            ],
+            "event_id": 1,
+            "duration": 486.71956666666665,
+            "frame_count": 14587
+        },
+        {
+            "video_id": "../inputs/val_set/ompjhYbkYJQ.mp4@2",
+            "caption": [
+                "Performing the hip figure-four exercise can help alleviate pain associated with hip arthritis.",
+                "Regularly incorporating the hip figure-four exercise into your routine may provide relief from hip arthritis discomfort.",
+                "Engaging in the hip figure-four exercise can improve hip flexibility and potentially reduce the symptoms of hip arthritis."
+            ],
+            "timestamp": [
+                8361,
+                10579
+            ],
+            "event_id": 2,
+            "duration": 486.71956666666665,
+            "frame_count": 14587
+        },
+        {
+            "video_id": "../inputs/val_set/ompjhYbkYJQ.mp4@3",
+            "caption": [
+                "Performing hip internal rotation exercises can help alleviate pain associated with hip arthritis.",
+                "Regularly practicing hip internal rotation movements may provide relief from hip arthritis discomfort.",
+                "Incorporating hip internal rotation exercises into your daily routine can aid in managing hip arthritis symptoms."
+            ],
+            "timestamp": [
+                10609,
+                12107
+            ],
+            "event_id": 3,
+            "duration": 486.71956666666665,
+            "frame_count": 14587
+        },
+        {
+            "video_id": "../inputs/val_set/XQluuzqrgA8.mp4@0",
+            "caption": [
+                "Adjusting the crutches to fit your body correctly is essential for proper support and mobility.",
+                "Ensuring the crutches are properly adjusted to your height and arm length can prevent unnecessary strain on your body.",
+                "Properly fitting crutches can help you move around safely and comfortably while recovering from an injury or surgery."
+            ],
+            "timestamp": [
+                869,
+                1918
+            ],
+            "event_id": 0,
+            "duration": 208.94206666666668,
+            "frame_count": 6262
+        },
+        {
+            "video_id": "../inputs/val_set/XQluuzqrgA8.mp4@1",
+            "caption": [
+                "Properly fitting the crutches under your arm is essential for maintaining balance and reducing strain on your injured leg.",
+                "Ensuring the crutches are positioned correctly under your arm can help prevent discomfort and promote proper healing of your injury.",
+                "Correctly placing the crutches under your arm can aid in mobility and prevent further injury to your leg."
+            ],
+            "timestamp": [
+                1948,
+                5634
+            ],
+            "event_id": 1,
+            "duration": 208.94206666666668,
+            "frame_count": 6262
+        },
+        {
+            "video_id": "../inputs/val_set/0w1GlJTH2x4.mp4@0",
+            "caption": [
+                "Regularly performing cat camel exercises can help alleviate back pain by improving spinal flexibility and strengthening core muscles.",
+                "Incorporating cat camel exercises into your daily routine may reduce back pain by promoting spinal alignment and increasing muscle support.",
+                "Consistently practicing cat camel exercises can aid in lowering back pain by enhancing spinal mobility and reducing muscle tension."
+            ],
+            "timestamp": [
+                150,
+                1358
+            ],
+            "event_id": 0,
+            "duration": 147.91111817784315,
+            "frame_count": 3721
+        },
+        {
+            "video_id": "../inputs/val_set/0w1GlJTH2x4.mp4@1",
+            "caption": [
+                "Regularly performing single-leg kneeling stretches can help alleviate back pain and improve flexibility in the lower back.",
+                "Incorporating single-leg kneeling stretches into your daily routine may provide relief from back pain and promote better posture.",
+                "Practicing single-leg kneeling stretches can strengthen the muscles supporting the spine, potentially reducing back pain."
+            ],
+            "timestamp": [
+                1660,
+                2490
+            ],
+            "event_id": 1,
+            "duration": 147.91111817784315,
+            "frame_count": 3721
+        },
+        {
+            "video_id": "../inputs/val_set/0w1GlJTH2x4.mp4@2",
+            "caption": [
+                "Pigeon stretches can help alleviate back pain by stretching the hip flexors and promoting spinal flexibility.",
+                "Incorporating pigeon stretches into your daily routine may provide relief from back pain by releasing tension in the lower back muscles.",
+                "Regularly practicing pigeon stretches can improve back pain by increasing blood flow to the affected area and promoting relaxation in the muscles."
+            ],
+            "timestamp": [
+                2742,
+                3547
+            ],
+            "event_id": 2,
+            "duration": 147.91111817784315,
+            "frame_count": 3721
+        },
+        {
+            "video_id": "../inputs/val_set/2AN6nO_3t8s.mp4@0",
+            "caption": [
+                "Stretching the rhomboid muscles can help alleviate upper back pain and improve posture.",
+                "Incorporating rhomboid muscle stretches into your daily routine may provide relief from upper back pain.",
+                "Regularly stretching the rhomboid muscles can reduce tension in the upper back, potentially easing discomfort."
+            ],
+            "timestamp": [
+                960,
+                4440
+            ],
+            "event_id": 0,
+            "duration": 352.8,
+            "frame_count": 10584
+        },
+        {
+            "video_id": "../inputs/val_set/2AN6nO_3t8s.mp4@1",
+            "caption": [
+                "Stretching the trapezius muscles can help alleviate upper back pain and improve overall posture.",
+                "Incorporating trapezius muscle stretches into your daily routine may provide relief from upper back discomfort.",
+                "Regularly stretching the trapezius muscles can help reduce tension and discomfort in the upper back region."
+            ],
+            "timestamp": [
+                4440,
+                5880
+            ],
+            "event_id": 1,
+            "duration": 352.8,
+            "frame_count": 10584
+        },
+        {
+            "video_id": "../inputs/val_set/2AN6nO_3t8s.mp4@2",
+            "caption": [
+                "Seated stretches targeting the upper back muscles can provide relief from pain and improve flexibility.",
+                "Stretching the upper back muscles while seated can help alleviate discomfort and increase range of motion.",
+                "Regularly stretching the upper back muscles in a seated position may help reduce pain and tension in that area."
+            ],
+            "timestamp": [
+                5880,
+                7350
+            ],
+            "event_id": 2,
+            "duration": 352.8,
+            "frame_count": 10584
+        },
+        {
+            "video_id": "../inputs/val_set/2AN6nO_3t8s.mp4@3",
+            "caption": [
+                "Self-massaging the upper back with a tennis ball can help alleviate muscle spasms and promote relaxation.",
+                "Using a tennis ball to massage the upper back can target specific muscle knots and provide relief from spasms.",
+                "Incorporating self-massage with a tennis ball into your routine may help ease muscle spasms in the upper back."
+            ],
+            "timestamp": [
+                7350,
+                8820
+            ],
+            "event_id": 3,
+            "duration": 352.8,
+            "frame_count": 10584
+        },
+        {
+            "video_id": "../inputs/val_set/2AN6nO_3t8s.mp4@4",
+            "caption": [
+                "Applying a heat pack to the upper back can help alleviate muscle spasms and promote relaxation.",
+                "Using a heat pack on the upper back may provide relief from muscle spasms and improve comfort.",
+                "Applying heat therapy to the upper back can help relax muscles and reduce the intensity of muscle spasms."
+            ],
+            "timestamp": [
+                8820,
+                9750
+            ],
+            "event_id": 4,
+            "duration": 352.8,
+            "frame_count": 10584
+        },
+        {
+            "video_id": "../inputs/val_set/GZsHRoAXj3Y.mp4@0",
+            "caption": [
+                "Preparing to wear ortho-k lenses involves cleaning them thoroughly and ensuring they are properly fitted for your eyes.",
+                "Before wearing ortho-k lenses, it is essential to consult with an eye care professional to determine the correct prescription and fit.",
+                "Properly preparing to wear ortho-k lenses includes following the recommended wearing schedule and caring for the lenses as instructed."
+            ],
+            "timestamp": [
+                0,
+                1056
+            ],
+            "event_id": 0,
+            "duration": 156.79166666666666,
+            "frame_count": 3763
+        },
+        {
+            "video_id": "../inputs/val_set/GZsHRoAXj3Y.mp4@1",
+            "caption": [
+                "Wearing ortho-k lenses overnight can help reshape the cornea and correct vision while you sleep.",
+                "Ortho-k lenses are worn overnight to temporarily correct nearsightedness by reshaping the cornea.",
+                "Using ortho-k lenses during sleep can provide clear vision throughout the day by reshaping the cornea."
+            ],
+            "timestamp": [
+                1056,
+                3624
+            ],
+            "event_id": 1,
+            "duration": 156.79166666666666,
+            "frame_count": 3763
+        },
+        {
+            "video_id": "../inputs/val_set/PhH9a0kIwmk.mp4@0",
+            "caption": [
+                "Recognizing the key signs of a stroke is crucial for prompt medical intervention.",
+                "Being able to identify the key signs of a stroke can lead to faster treatment and better outcomes.",
+                "Understanding the key signs of a stroke can help save lives and prevent long-term disability."
+            ],
+            "timestamp": [
+                650,
+                2400
+            ],
+            "event_id": 0,
+            "duration": 139.76,
+            "frame_count": 3494
+        },
+        {
+            "video_id": "../inputs/val_set/Aw4K5kYoCiE.mp4@0",
+            "caption": [
+                "A recommended quad stretch to alleviate knee pain from Osgood-Schlatter disease is the standing quad stretch.",
+                "The standing quad stretch is an effective way to ease knee discomfort associated with Osgood-Schlatter disease.",
+                "Incorporating the standing quad stretch into your routine can help alleviate knee pain caused by Osgood-Schlatter disease."
+            ],
+            "timestamp": [
+                2517,
+                6443
+            ],
+            "event_id": 0,
+            "duration": 333.59993333333335,
+            "frame_count": 9998
+        },
+        {
+            "video_id": "../inputs/val_set/Aw4K5kYoCiE.mp4@1",
+            "caption": [
+                "A standing quad stretch can help alleviate knee pain associated with Osgood-Schlatter disease.",
+                "Regularly performing a standing quad stretch may provide relief from knee pain caused by Osgood-Schlatter disease.",
+                "Incorporating a standing quad stretch into your routine can help manage knee pain related to Osgood-Schlatter disease."
+            ],
+            "timestamp": [
+                6473,
+                7552
+            ],
+            "event_id": 1,
+            "duration": 333.59993333333335,
+            "frame_count": 9998
+        },
+        {
+            "video_id": "../inputs/val_set/lwhYbWFtNuE.mp4@0",
+            "caption": [
+                "Treating a crick in the neck can be done by performing gentle neck side bends to help alleviate stiffness and discomfort.",
+                "A crick in the neck can be relieved by incorporating neck side bends into your daily routine to improve flexibility and reduce tension.",
+                "To address a crick in the neck, consider adding neck side bends to your stretching regimen to promote relaxation and ease muscle tightness."
+            ],
+            "timestamp": [
+                689,
+                1200
+            ],
+            "event_id": 0,
+            "duration": 136.26666666666668,
+            "frame_count": 4088
+        },
+        {
+            "video_id": "../inputs/val_set/lwhYbWFtNuE.mp4@1",
+            "caption": [
+                "Performing neck side rotations can help alleviate a crick in the neck by loosening tight muscles and improving range of motion.",
+                "Applying gentle heat therapy to the affected area followed by neck side rotations may provide relief from a crick in the neck.",
+                "Incorporating neck side rotations into your daily routine can help prevent and alleviate cricks in the neck by promoting neck muscle flexibility."
+            ],
+            "timestamp": [
+                1230,
+                2160
+            ],
+            "event_id": 1,
+            "duration": 136.26666666666668,
+            "frame_count": 4088
+        },
+        {
+            "video_id": "../inputs/val_set/lwhYbWFtNuE.mp4@2",
+            "caption": [
+                "Neck isometrics can be used to effectively treat a crick in the neck by strengthening the neck muscles.",
+                "Utilizing neck isometrics exercises can help alleviate a crick in the neck by promoting muscle relaxation.",
+                "Incorporating neck isometrics into your routine can aid in relieving a crick in the neck by improving neck muscle stability."
+            ],
+            "timestamp": [
+                2190,
+                3029
+            ],
+            "event_id": 2,
+            "duration": 136.26666666666668,
+            "frame_count": 4088
+        },
+        {
+            "video_id": "../inputs/val_set/Mtd0U13cfx0.mp4@0",
+            "caption": [
+                "You may have tennis elbow or lateral epicondylitis if you experience pain on the outer part of your elbow when gripping or lifting objects.",
+                "The presence of pain and tenderness on the outer elbow could indicate tennis elbow or lateral epicondylitis.",
+                "If you feel discomfort and stiffness on the outer elbow, it could be a sign of tennis elbow or lateral epicondylitis."
+            ],
+            "timestamp": [
+                239,
+                1830
+            ],
+            "event_id": 0,
+            "duration": 90.96666666666667,
+            "frame_count": 2729
+        },
+        {
+            "video_id": "../inputs/val_set/Mtd0U13cfx0.mp4@1",
+            "caption": [
+                "Using a chair to perform a simple test can help determine if you are experiencing symptoms of tennis elbow or lateral epicondylitis.",
+                "By observing pain and tenderness in the outer part of your elbow while performing specific movements with a chair, you can identify potential signs of tennis elbow or lateral epicondylitis.",
+                "Checking for discomfort and inflammation in the elbow joint during chair-related activities can indicate the presence of tennis elbow or lateral epicondylitis."
+            ],
+            "timestamp": [
+                2039,
+                2550
+            ],
+            "event_id": 1,
+            "duration": 90.96666666666667,
+            "frame_count": 2729
+        },
+        {
+            "video_id": "../inputs/val_set/hJ3XICFLxvU.mp4@0",
+            "caption": [
+                "Forearm pain can be alleviated by applying ice packs and resting the affected arm.",
+                "Seeking medical advice for forearm pain is crucial to determine the underlying cause and appropriate treatment.",
+                "Experiencing forearm pain may indicate overuse or injury, requiring rest and gentle stretching for relief."
+            ],
+            "timestamp": [
+                1374,
+                8050
+            ],
+            "event_id": 0,
+            "duration": 360.04,
+            "frame_count": 9001
+        },
+        {
+            "video_id": "../inputs/val_set/hJ3XICFLxvU.mp4@1",
+            "caption": [
+                "Table top stretches involve extending your arms and legs while on all fours, which can help improve flexibility and strengthen your core muscles.",
+                "Performing table top stretches regularly can aid in relieving back pain and improving posture by engaging the muscles in your back and abdomen.",
+                "Incorporating table top stretches into your daily routine can enhance your overall flexibility and promote better spinal alignment."
+            ],
+            "timestamp": [
+                4574,
+                8050
+            ],
+            "event_id": 1,
+            "duration": 360.04,
+            "frame_count": 9001
+        },
+        {
+            "video_id": "../inputs/val_set/lfhDPB8LaTk.mp4@0",
+            "caption": [
+                "Using a knee glide device post-surgery can aid in regaining motion in the knee.",
+                "Incorporating knee glide exercises into your recovery routine can help improve knee mobility after surgery.",
+                "Regularly using a knee glide can assist in the rehabilitation process and promote better knee function following surgery."
+            ],
+            "timestamp": [
+                3416,
+                4555
+            ],
+            "event_id": 0,
+            "duration": 391.35763333333335,
+            "frame_count": 11729
+        },
+        {
+            "video_id": "../inputs/val_set/lfhDPB8LaTk.mp4@1",
+            "caption": [
+                "Using a knee glide can aid in strengthening the hamstring muscles post-surgery.",
+                "Incorporating knee glide exercises into your recovery routine can help improve hamstring strength following surgery.",
+                "Regularly using a knee glide device may assist in rehabilitating and strengthening the hamstring muscles after surgery."
+            ],
+            "timestamp": [
+                5004,
+                6443
+            ],
+            "event_id": 1,
+            "duration": 391.35763333333335,
+            "frame_count": 11729
+        }
+    ]
+}

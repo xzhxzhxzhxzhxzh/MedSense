@@ -1,0 +1,102 @@
+id: test
+
+dataset: medqa
+feature_dim: 1024
+train_ann: /root/project/videoqa/inputs/annotations/train_annotations.json
+train_feat: /root/project/videoqa/inputs/feature/train
+val_ann: /root/project/videoqa/inputs/annotations/test_annotations.json
+val_feat: /root/project/videoqa/inputs/feature/test
+gt_file_for_eval:
+  - /root/project/videoqa/inputs/annotations/test_grounding.json
+gt_file_for_para_eval:
+  - /root/project/videoqa/inputs/annotations/test_para.json
+eval_gt_file_for_grounding: /root/project/videoqa/inputs/annotations/test_grounding.json
+
+dict_file: /root/project/videoqa/inputs/annotations/medqa_voca_dict.json
+vocab_size: 1648
+pooling:
+nthreads: 1
+
+huggingface_cache_dir: .cache
+save_dir: save
+gt_proposal_sample_num: 10
+frame_embedding_num: 300
+
+# model configs
+batch_step: 2
+num_queries: 20
+batch_size: 1
+lr: 0.000005
+learning_rate_decay_start: 800
+learning_rate_decay_every: 3
+learning_rate_decay_rate: 0.5
+weight_decay: 0.000005
+grad_clip: 1
+epoch: 60
+save_dir: save
+# grounding settings
+eval_enable_grounding: True
+# Text encoder
+word_context_modeling_type: attention_pool
+text_encoder_learning_strategy: frozen
+enable_layer_diff_text_feature: True
+# Text Context Modeling
+enable_word_context_modeling: True
+enable_sentence_context_modeling: True
+enable_sentence_pos_embedding: True
+sentence_modeling_layer_num: 1
+
+# contrastive loss
+pretrained_language_model: roberta-base
+enable_contrastive: True
+enable_cross_video_cl: True
+cl_schedule_time: [0, 2]
+cl_schedule_val: [0, 0]
+contrastive_loss_coef: 0.1
+contrastive_loss_temperature: 0.1
+contrastive_hidden_size: 128
+eval_set_cost_class: 0
+
+dec_layers: 2
+enc_layers: 2
+transformer_ff_dim: 512
+transformer_dropout_prob: 0.1
+caption_decoder_type: standard
+cap_nheads: 1
+cap_dec_n_points: 4
+cap_num_feature_levels: 4
+soft_attention: 1
+att_hid_size: 512
+ec_alpha: 1.0
+
+
+with_box_refine: 1
+fix_xcw: 1
+set_cost_caption: 0
+set_cost_giou: 4
+set_cost_bbox: 0
+set_cost_class: 2
+set_cost_cl: 0
+
+caption_loss_coef: 0
+giou_loss_coef: 4
+bbox_loss_coef: 0
+cls_loss_coef: 2
+count_loss_coef: 0.5
+max_eseq_length: 10
+lloss_cross_entropy: 0
+lloss_focal_loss: 0
+lloss_gau_mask: 1
+
+criteria_for_best_ckpt: dvc
+transfer_learning_stage1: False
+two_stage_mode: aux
+dn_number: 100
+dn_box_noise_scale: 0.1
+dn_label_noise_ratio: 0.1
+look_forward_twice: True
+
+pretrain: True
+pretrain_path: /root/project/videoqa/GVL/save/07_22cdn-lr1e-5-w2/model-best-dvc.pth
+learning_strategy: warmup_linear
+warm_up_ratio: 0.2

@@ -1,0 +1,100 @@
+{
+    "xIomu6zZEpU": [
+        {
+            "timestamp": [
+                41.771751403808594,
+                55.64385986328125
+            ],
+            "raw_box": [
+                41.771751403808594,
+                55.64385986328125
+            ],
+            "label": 0,
+            "proposal_score": 0.29288816452026367,
+            "sentence": [
+                "using a squeezer on the patient's hand can help assess cross - - eye issues or discomfort.",
+                "regularly using a blood pressure test can determine any symptoms of a vein or abnormalities.",
+                "using a blood flow test on the affected hand, assessing the strength of the skin and function of the blood flow in the area."
+            ],
+            "sentence_score": -221.68780517578125,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 59.36000061035156,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "Cec1-mcZOp8": [
+        {
+            "timestamp": [
+                15.682558059692383,
+                41.05948257446289
+            ],
+            "raw_box": [
+                15.682558059692383,
+                41.05948257446289
+            ],
+            "label": 0,
+            "proposal_score": 0.38047003746032715,
+            "sentence": [
+                "performing a self - massage routine can help strengthen the muscles around the body, improving flexibility and strength of the body.",
+                "using a healthcare provider for healthcare providers is essential for preventing blood flow and preventing potential issues.",
+                "using a self - massage gun can effectively reduce the risk of blood flow to the body."
+            ],
+            "sentence_score": -221.73959350585938,
+            "cl_score": 0.0,
+            "query_id": 12,
+            "vid_duration": 54.7599983215332,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "mL-50vtXHdo&t=47s": [
+        {
+            "timestamp": [
+                72.64069366455078,
+                208.1913299560547
+            ],
+            "raw_box": [
+                72.64069366455078,
+                208.1913299560547
+            ],
+            "label": 0,
+            "proposal_score": 0.31074750423431396,
+            "sentence": [
+                "utilizing a hand gun on your routine can help reduce the risk of skin cancer.",
+                "observing the t regularly through a self - massage machine helps prevent the use of a stroke.",
+                "properly performing self - massage techniques can assist in preventing stiffness and improving overall body function."
+            ],
+            "sentence_score": -221.61593627929688,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 237.0800018310547,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                2.8258960247039795,
+                64.87525939941406
+            ],
+            "raw_box": [
+                2.8258960247039795,
+                64.87525939941406
+            ],
+            "label": 0,
+            "proposal_score": 0.2712993919849396,
+            "sentence": [
+                "using a post - stroke machine can assist in improving overall self - being and function after surgery.",
+                "incorporating the grip on the legs can assist in reducing stiffness and promote better spinal function.",
+                "using an automated self - checks device on a self - massage routine helps in the recovery process of a stroke."
+            ],
+            "sentence_score": -221.6573944091797,
+            "cl_score": 0.0,
+            "query_id": 33,
+            "vid_duration": 237.0800018310547,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ]
+}

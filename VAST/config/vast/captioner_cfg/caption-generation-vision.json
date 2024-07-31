@@ -1,0 +1,25 @@
+
+{"run_cfg":
+{"default":"./config/vast/default_run_cfg.json",
+  "mode":"testing"},
+
+"model_cfg":
+{"default":"./config/vast/default_model_cfg.json"},
+
+"data_cfg":         
+
+    {"train":{},
+
+    "val":                
+    [{
+        "type":"annoindexed",
+        "training":false,
+        "name": "medqa_prediction",
+        "txt":  "/root/project/videoqa/captions_ann/vast_inference.json",
+        "vision": "",
+        "vision_format": "video_rawvideo",
+        "vision_sample_num": 32,
+        "task" : "cap%tv",
+        "n_workers": 0,
+        "batch_size": 4
+    }]}}

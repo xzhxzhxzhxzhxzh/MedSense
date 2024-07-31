@@ -1,0 +1,1003 @@
+[
+    {
+        "video_id": "../inputs/test_set/h5MvX50zTLM.mp4@0",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            2166,
+            5061
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/Se3kf5X4PCc.mp4@0",
+        "caption": [
+            [
+                "blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades."
+            ]
+        ],
+        "timestamp": [
+            1478,
+            3348
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/UZqktEPlxTU.mp4@0",
+        "caption": [
+            [
+                "blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades blades."
+            ]
+        ],
+        "timestamp": [
+            258,
+            3088
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/_N89T_Yqu68.mp4@0",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            852,
+            4104
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/g-gNQPyxU4c.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            7808,
+            15025
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/g-gNQPyxU4c.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            775,
+            3406
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/g-gNQPyxU4c.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            3569,
+            7176
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/VHN5zPaw96w.mp4@0",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            803,
+            2076
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/PdMJAhD7NEw.mp4@0",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            3134,
+            7651
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/PdMJAhD7NEw.mp4@1",
+        "caption": [
+            [
+                "lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying."
+            ]
+        ],
+        "timestamp": [
+            486,
+            1008
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/PdMJAhD7NEw.mp4@2",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            4879,
+            5579
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/0dr5yuoBOF4.mp4@0",
+        "caption": [
+            [
+                "effective melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            46,
+            5036
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/0dr5yuoBOF4.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            4568,
+            7640
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/VykLxY9mzug.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1185,
+            11428
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/VykLxY9mzug.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            9021,
+            16363
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/VykLxY9mzug.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            6307,
+            8092
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/LqMs2kA5Y88.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            2594,
+            8030
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/LqMs2kA5Y88.mp4@1",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            386,
+            2486
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/LqMs2kA5Y88.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            4245,
+            5173
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/M6WV95X0fRk.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            302,
+            1916
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/lRO4l8QkAzM.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            46,
+            3808
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/LL854--GBy4.mp4@0",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            6680,
+            10139
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/LL854--GBy4.mp4@1",
+        "caption": [
+            [
+                "effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective."
+            ]
+        ],
+        "timestamp": [
+            10150,
+            11797
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/OwCEobuxQOY.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1992,
+            6172
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/x3YFqBzO5Uw.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            2143,
+            4460
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/kSpggqOLgaU.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1111,
+            7104
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/kSpggqOLgaU.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            9271,
+            12546
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/kSpggqOLgaU.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            10581,
+            11226
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/1Nr6wPFz09A.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1141,
+            4785
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/1Nr6wPFz09A.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            4249,
+            4983
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/v0HODFTrkqs.mp4@0",
+        "caption": [
+            [
+                "backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward backward."
+            ]
+        ],
+        "timestamp": [
+            155,
+            1078
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/Zs8Fs5HaJHs.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1629,
+            5711
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/VYXSyQmTAXQ.mp4@0",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            2899,
+            15038
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/VYXSyQmTAXQ.mp4@1",
+        "caption": [
+            [
+                "important important important important important important important important important important important important important important important important important important important important important important important important important important important important important important."
+            ]
+        ],
+        "timestamp": [
+            13554,
+            15446
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/VYXSyQmTAXQ.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1370,
+            2934
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/kyEF16tBBxo.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1036,
+            4619
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/CEgMHaXGhmQ.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            7836,
+            15911
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/CEgMHaXGhmQ.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1389,
+            5969
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/CEgMHaXGhmQ.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            6964,
+            9201
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/bUgV89cdfTM.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            274,
+            1562
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/GUg4zMpchhk.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            6328,
+            14172
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/GUg4zMpchhk.mp4@1",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            1920,
+            3854
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/fsdchGejKmU.mp4@0",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            2527,
+            6072
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/fsdchGejKmU.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            6607,
+            9432
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/fsdchGejKmU.mp4@2",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            9392,
+            12214
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/_RNMIizfDEY.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            5510,
+            14824
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/_RNMIizfDEY.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1535,
+            3224
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/0CD3mYjPXxk.mp4@0",
+        "caption": [
+            [
+                "resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation resuscitation."
+            ]
+        ],
+        "timestamp": [
+            2138,
+            3936
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/_hb7isbiW3s.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1551,
+            7958
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/_hb7isbiW3s.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            4278,
+            5287
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/_hb7isbiW3s.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            6626,
+            7493
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/B9yiDTONlOs.mp4@0",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            2811,
+            4146
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/ma_cmlU9DxU.mp4@0",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            820,
+            4304
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/-Zx3pWhMBjw.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            691,
+            3930
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/-Zx3pWhMBjw.mp4@1",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            3266,
+            5035
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/-Zx3pWhMBjw.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            4533,
+            5993
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/4h3V6F4Rl_k.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            4860,
+            11456
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/4h3V6F4Rl_k.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            10378,
+            11560
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/4h3V6F4Rl_k.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            521,
+            6957
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/CWRWeoaqi8k.mp4@0",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            7719,
+            11892
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/CWRWeoaqi8k.mp4@1",
+        "caption": [
+            [
+                "sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations sensations."
+            ]
+        ],
+        "timestamp": [
+            5484,
+            8220
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/CWRWeoaqi8k.mp4@2",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            2029,
+            6056
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/dqtqS_OVDGw.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1315,
+            3008
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/dqtqS_OVDGw.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            7957,
+            9913
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/dqtqS_OVDGw.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            2300,
+            9375
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/R9oWYkK_l3M.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            453,
+            4441
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/Y9-54bnvPGg.mp4@0",
+        "caption": [
+            [
+                "insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin insulin."
+            ]
+        ],
+        "timestamp": [
+            0,
+            1107
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/T43753AfaKY.mp4@0",
+        "caption": [
+            [
+                "lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying."
+            ]
+        ],
+        "timestamp": [
+            2593,
+            6492
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/T43753AfaKY.mp4@1",
+        "caption": [
+            [
+                "effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective effective."
+            ]
+        ],
+        "timestamp": [
+            3939,
+            4640
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/T43753AfaKY.mp4@2",
+        "caption": [
+            [
+                "bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow bow."
+            ]
+        ],
+        "timestamp": [
+            1782,
+            2842
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/xYFeFFzFftw.mp4@0",
+        "caption": [
+            [
+                "lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying lying."
+            ]
+        ],
+        "timestamp": [
+            1245,
+            2513
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/xYFeFFzFftw.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            2607,
+            5585
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/xYFeFFzFftw.mp4@2",
+        "caption": [
+            [
+                "sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways sways."
+            ]
+        ],
+        "timestamp": [
+            10958,
+            13491
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/M6UBlnV1Cyk.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            676,
+            6317
+        ],
+        "event_id": 0
+    },
+    {
+        "video_id": "../inputs/test_set/M6UBlnV1Cyk.mp4@1",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            3541,
+            4416
+        ],
+        "event_id": 1
+    },
+    {
+        "video_id": "../inputs/test_set/M6UBlnV1Cyk.mp4@2",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1429,
+            2172
+        ],
+        "event_id": 2
+    },
+    {
+        "video_id": "../inputs/test_set/PA9hpOnvtCk.mp4@0",
+        "caption": [
+            [
+                "melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas melanomas."
+            ]
+        ],
+        "timestamp": [
+            1135,
+            3615
+        ],
+        "event_id": 0
+    }
+]

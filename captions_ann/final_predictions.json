@@ -1,0 +1,1951 @@
+{
+    "h5MvX50zTLM": [
+        {
+            "timestamp": [
+                72.2138671875,
+                168.71432495117188
+            ],
+            "raw_box": [
+                72.2138671875,
+                168.71432495117188
+            ],
+            "label": 0,
+            "proposal_score": 0.3149734139442444,
+            "sentence": [
+                "incorporating wall extensions into your daily routine can help reduce tension and improve posture.",
+                "utilizing wall slides to stretch the muscles can assist in reducing shoulder discomfort and improving posture.",
+                "regularly practicing wall slides may provide relief from back spasms or tension in the muscles."
+            ],
+            "sentence_score": -221.68942260742188,
+            "cl_score": 0.0,
+            "query_id": 32,
+            "vid_duration": 185.89999389648438,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "Se3kf5X4PCc": [
+        {
+            "timestamp": [
+                49.29652786254883,
+                111.60665130615234
+            ],
+            "raw_box": [
+                49.29652786254883,
+                111.60665130615234
+            ],
+            "label": 0,
+            "proposal_score": 0.42123961448669434,
+            "sentence": [
+                "regularly practicing piriformis knee exercises can aid in preventing leg pain and improving flexibility in the knee joint.",
+                "strengthening the piriformis muscles through knee rotations can help improve flexibility and reduce the risk of developing knee arthritis.",
+                "regularly performing piriformis stretch can aid in the reattachment process for leg pain and promoting proper joint function."
+            ],
+            "sentence_score": -221.7275390625,
+            "cl_score": 0.0,
+            "query_id": 47,
+            "vid_duration": 122.63333129882812,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "UZqktEPlxTU": [
+        {
+            "timestamp": [
+                8.617056846618652,
+                103.04808807373047
+            ],
+            "raw_box": [
+                8.617056846618652,
+                103.04808807373047
+            ],
+            "label": 0,
+            "proposal_score": 0.32994207739830017,
+            "sentence": [
+                "placing an open chest brace under a t's neck can help alleviate pain and improve neck mobility.",
+                "properly practicing quadricep and chin tucks can aid in the healing process and support the recovery process for a broken neck.",
+                "placing a limb sling into the sling may help reduce discomfort and promote relaxation."
+            ],
+            "sentence_score": -221.72262573242188,
+            "cl_score": 0.0,
+            "query_id": 39,
+            "vid_duration": 118.31819915771484,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "_N89T_Yqu68": [
+        {
+            "timestamp": [
+                34.083980560302734,
+                164.17056274414062
+            ],
+            "raw_box": [
+                34.083980560302734,
+                164.17056274414062
+            ],
+            "label": 0,
+            "proposal_score": 0.49901044368743896,
+            "sentence": [
+                "using a pressure - to - mouth method can aid in preventing any potential potential abnormalities.",
+                "using gentle pressure and pressure on the neck can help alleviate the presence of lymphomas.",
+                "monitoring the head for potential lymphoma can help ensure proper alignment and prevent further injuries."
+            ],
+            "sentence_score": -221.71719360351562,
+            "cl_score": 0.0,
+            "query_id": 39,
+            "vid_duration": 172.8800048828125,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "g-gNQPyxU4c": [
+        {
+            "timestamp": [
+                260.5461120605469,
+                501.34588623046875
+            ],
+            "raw_box": [
+                260.5461120605469,
+                501.34588623046875
+            ],
+            "label": 0,
+            "proposal_score": 0.3128528296947479,
+            "sentence": [
+                "regularly practicing a sprain exercise may reduce neck pain and discomfort associated with a herniated discs.",
+                "properly massaging the neck gently can aid in preventing neck pain and improving range of motion.",
+                "using a splint for airway can alleviate pain and improve overall health."
+            ],
+            "sentence_score": -221.74179077148438,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                25.864973068237305,
+                113.65309143066406
+            ],
+            "raw_box": [
+                25.864973068237305,
+                113.65309143066406
+            ],
+            "label": 0,
+            "proposal_score": 0.1939316689968109,
+            "sentence": [
+                "when sitting on a bed with your back to the side, you may have a sign in your hand.",
+                "a sign for shoulder pain, it is important to have a sign that is the sign to an injured shoulder, which is important for effective treatment.",
+                "applying gentle pressure to the affected area can help alleviate symptoms of a pinched nerve."
+            ],
+            "sentence_score": -221.69309997558594,
+            "cl_score": 0.0,
+            "query_id": 20,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                119.11116027832031,
+                239.4665985107422
+            ],
+            "raw_box": [
+                119.11116027832031,
+                239.4665985107422
+            ],
+            "label": 0,
+            "proposal_score": 0.18294177949428558,
+            "sentence": [
+                "regularly practicing chin tucks may provide valuable information about symptoms of neck pain through a thorough medical tests.",
+                "regularly practicing chin tucks can aid in reducing neck pain by increasing range of motion and promoting better neck alignment.",
+                "relieving neck tension and improving neck range of motion in the neck can help improve flexibility and prevent muscle relaxation."
+            ],
+            "sentence_score": -221.68795776367188,
+            "cl_score": 0.0,
+            "query_id": 88,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "VHN5zPaw96w": [
+        {
+            "timestamp": [
+                33.50038146972656,
+                86.58858489990234
+            ],
+            "raw_box": [
+                33.50038146972656,
+                86.58858489990234
+            ],
+            "label": 0,
+            "proposal_score": 0.3254683017730713,
+            "sentence": [
+                "using a nebulizer can help manage the risk of medication and improve overall oxygen flow.",
+                "incorporating the nebulizer into your daily routine can aid in improving lung function and reduce the risk of respiratory issues.",
+                "using a nebulizer as directed by a healthcare provider can aid in managing respiratory conditions and preventing complications."
+            ],
+            "sentence_score": -221.61752319335938,
+            "cl_score": 0.0,
+            "query_id": 2,
+            "vid_duration": 89.00557708740234,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "PdMJAhD7NEw": [
+        {
+            "timestamp": [
+                125.39604949951172,
+                306.0613708496094
+            ],
+            "raw_box": [
+                125.39604949951172,
+                306.0613708496094
+            ],
+            "label": 0,
+            "proposal_score": 0.414156436920166,
+            "sentence": [
+                "incorporating the prone head exercises with a lacrosse ball into your routine can aid in managing cervical hernias symptoms, potentially reducing the risk of cervical hernias and spondylolysis.",
+                "incorporating a towel under your head can provide relief from cervical hernia and stiffness associated with a hernias disc.",
+                "using a foam ball for exercises can help alleviate tension in the spine, promoting better spinal alignment and reducing strain on the spine."
+            ],
+            "sentence_score": -221.69625854492188,
+            "cl_score": 0.0,
+            "query_id": 89,
+            "vid_duration": 308.8399963378906,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                19.463626861572266,
+                40.33935546875
+            ],
+            "raw_box": [
+                19.463626861572266,
+                40.33935546875
+            ],
+            "label": 0,
+            "proposal_score": 0.1537712663412094,
+            "sentence": [
+                "regularly performing extension exercises can help improve muscle flexibility of the shoulder and improve range of motion.",
+                "regularly practicing shoulder extension exercises may provide relief from shoulder pain by strengthening the muscles around the shoulder area.",
+                "performing shoulder extension stretches can aid in reducing shoulder stiffness and improving range of motion in the muscles."
+            ],
+            "sentence_score": -221.70257568359375,
+            "cl_score": 0.0,
+            "query_id": 62,
+            "vid_duration": 308.8399963378906,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                195.19923400878906,
+                223.1776123046875
+            ],
+            "raw_box": [
+                195.19923400878906,
+                223.1776123046875
+            ],
+            "label": 0,
+            "proposal_score": 0.12790881097316742,
+            "sentence": [
+                "using a foam ball for pillow can alleviate tension in the neck and shoulders.",
+                "applying pressure on the head with a pillow can help alleviate pressure on the neck and provide relief from neck pain.",
+                "using a soft foam ball as a pillow can aid in reducing tension and stiffness in the muscles."
+            ],
+            "sentence_score": -221.67666625976562,
+            "cl_score": 0.0,
+            "query_id": 49,
+            "vid_duration": 308.8399963378906,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "0dr5yuoBOF4": [
+        {
+            "timestamp": [
+                1.5644252300262451,
+                168.03848266601562
+            ],
+            "raw_box": [
+                1.5644252300262451,
+                168.03848266601562
+            ],
+            "label": 0,
+            "proposal_score": 0.2643488645553589,
+            "sentence": [
+                "utilizing the wound, which is a common method for managing wound bleeding.",
+                "properly utilizing a clean bandage correctly during an emergency situation helps prevent further damage and prevent further complications.",
+                "properly utilizing the wound pressure bandage can help control severe bleeding and prevent further complications."
+            ],
+            "sentence_score": -221.7235565185547,
+            "cl_score": 0.0,
+            "query_id": 3,
+            "vid_duration": 376.0757141113281,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                152.4416046142578,
+                254.93771362304688
+            ],
+            "raw_box": [
+                152.4416046142578,
+                254.93771362304688
+            ],
+            "label": 0,
+            "proposal_score": 0.25052744150161743,
+            "sentence": [
+                "applying bandages with a bandage can help alleviate a bleeding.",
+                "using a bandage and a splint, which helps control a bleeding and prevent further complications.",
+                "using a bandage and an open can helps control and reduce further bleeding."
+            ],
+            "sentence_score": -221.64569091796875,
+            "cl_score": 0.0,
+            "query_id": 11,
+            "vid_duration": 376.0757141113281,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ],
+    "VykLxY9mzug": [
+        {
+            "timestamp": [
+                39.543827056884766,
+                381.31719970703125
+            ],
+            "raw_box": [
+                39.543827056884766,
+                381.31719970703125
+            ],
+            "label": 0,
+            "proposal_score": 0.3390190303325653,
+            "sentence": [
+                "incorporating hand - bending exercises into your routine may aid in relieving symptoms of osteoarthritis.",
+                "incorporating hand - - pin - lifting exercises into your routine can aid in correcting your hand by strengthening the muscles around the joint, promoting better hand function.",
+                "ensuring proper technique to clean and clean the affected area can provide relief from a pinched nerve, which can help protect your hand from tennis elbow."
+            ],
+            "sentence_score": -221.64532470703125,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                301.0074157714844,
+                546.0
+            ],
+            "raw_box": [
+                301.0074157714844,
+                546.0
+            ],
+            "label": 0,
+            "proposal_score": 0.2652386724948883,
+            "sentence": [
+                "regularly practicing a hand's exercises may improve mobility and prevent trigger fingers.",
+                "regularly stretching the fingers can aid in reducing pain and improving flexibility in the body.",
+                "incorporating flexion exercises into your routine can assist in reducing discomfort associated with trigger finger."
+            ],
+            "sentence_score": -221.72637939453125,
+            "cl_score": 0.0,
+            "query_id": 6,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                210.46014404296875,
+                270.0135803222656
+            ],
+            "raw_box": [
+                210.46014404296875,
+                270.0135803222656
+            ],
+            "label": 0,
+            "proposal_score": 0.23431852459907532,
+            "sentence": [
+                "regularly practicing chin tucks may help improve flexibility in the affected area and promote better respiratory health.",
+                "regularly practicing hand movements can reduce pressure on your affected area and improve flexibility.",
+                "regular finger extension stretches can improve flexibility and reduce the risk of tmj pain."
+            ],
+            "sentence_score": -221.7540283203125,
+            "cl_score": 0.0,
+            "query_id": 5,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "LqMs2kA5Y88": [
+        {
+            "timestamp": [
+                86.56124877929688,
+                267.9398193359375
+            ],
+            "raw_box": [
+                86.56124877929688,
+                267.9398193359375
+            ],
+            "label": 0,
+            "proposal_score": 0.3414291441440582,
+            "sentence": [
+                "incorporating hand exercises with a foam injury into your routine can enhance overall function and improve hand function.",
+                "using a tablet or tablet can help alleviate pain caused by osteoporosis or discomfort.",
+                "incorporating tablet exercises into your routine may aid in the recovery process for someone with osgood schlatter's disease."
+            ],
+            "sentence_score": -221.68258666992188,
+            "cl_score": 0.0,
+            "query_id": 3,
+            "vid_duration": 284.48419189453125,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                12.885290145874023,
+                82.98200225830078
+            ],
+            "raw_box": [
+                12.885290145874023,
+                82.98200225830078
+            ],
+            "label": 0,
+            "proposal_score": 0.2278757095336914,
+            "sentence": [
+                "applying ice and foam to the area can help alleviate pain in the affected area.",
+                "incorporating external exercises into your routine can aid in managing symptoms of a stroke.",
+                "using a towel for support and using a pillow can help alleviate symptoms like shoulder pain or injuries."
+            ],
+            "sentence_score": -221.74298095703125,
+            "cl_score": 0.0,
+            "query_id": 25,
+            "vid_duration": 284.48419189453125,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                141.66323852539062,
+                172.61244201660156
+            ],
+            "raw_box": [
+                141.66323852539062,
+                172.61244201660156
+            ],
+            "label": 0,
+            "proposal_score": 0.1775963455438614,
+            "sentence": [
+                "utilizing a tablet to improve shoulder flexibility and prevent further injury from developing a stroke.",
+                "using a tablet can assist in imbalances and enhancing the chances of stroke.",
+                "using the tablet to apply a supinator to help prevent infection and support the function."
+            ],
+            "sentence_score": -221.7245635986328,
+            "cl_score": 0.0,
+            "query_id": 63,
+            "vid_duration": 284.48419189453125,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "M6WV95X0fRk": [
+        {
+            "timestamp": [
+                10.095829010009766,
+                63.939823150634766
+            ],
+            "raw_box": [
+                10.095829010009766,
+                63.939823150634766
+            ],
+            "label": 0,
+            "proposal_score": 0.2629426419734955,
+            "sentence": [
+                "regularly cleaning your chest with a saline dressing helps reduce discomfort associated with melanoma by promoting proper recovery.",
+                "regularly checking the chest and chest is crucial for preventing complications during skin cancer.",
+                "applying wound moistmizing cream on the side of the chest, you may experience a thorough medical attention."
+            ],
+            "sentence_score": -221.65243530273438,
+            "cl_score": 0.0,
+            "query_id": 4,
+            "vid_duration": 90.42366790771484,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "lRO4l8QkAzM": [
+        {
+            "timestamp": [
+                1.5446311235427856,
+                127.07768249511719
+            ],
+            "raw_box": [
+                1.5446311235427856,
+                127.07768249511719
+            ],
+            "label": 0,
+            "proposal_score": 0.34487512707710266,
+            "sentence": [
+                "stretching the lower leg can promote relief from pain and improve overall flexibility.",
+                "incorporating self - massage techniques and ice - cream exercises into your daily routine may provide relief from lower back pain and improve overall foot mobility.",
+                "incorporating self - massage techniques into your daily routine can aid in maintaining proper healing and preventing injury during an injured ankle."
+            ],
+            "sentence_score": -221.6047821044922,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 209.14227294921875,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "LL854--GBy4": [
+        {
+            "timestamp": [
+                222.91433715820312,
+                338.3372802734375
+            ],
+            "raw_box": [
+                222.91433715820312,
+                338.3372802734375
+            ],
+            "label": 0,
+            "proposal_score": 0.28452491760253906,
+            "sentence": [
+                "a gum like gums are essential for managing gums and gums.",
+                "the tmj oral cancer patient can be done by examining their teeth.",
+                "regular mouth care and regular brushings can help prevent gums and improve gum recession."
+            ],
+            "sentence_score": -221.68673706054688,
+            "cl_score": 0.0,
+            "query_id": 11,
+            "vid_duration": 546.0,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                338.6916198730469,
+                393.6324768066406
+            ],
+            "raw_box": [
+                338.6916198730469,
+                393.6324768066406
+            ],
+            "label": 0,
+            "proposal_score": 0.20061548054218292,
+            "sentence": [
+                "a potential issues in the hand can be identified through a sign of the thumb.",
+                "engaging in thumb external exercises can help alleviate a swelling or pinched nerve in the wrist.",
+                "performing radial taping exercises can help improve mobility and reduce the chances of potential skin cancer."
+            ],
+            "sentence_score": -221.69110107421875,
+            "cl_score": 0.0,
+            "query_id": 46,
+            "vid_duration": 546.0,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ],
+    "OwCEobuxQOY": [
+        {
+            "timestamp": [
+                66.47250366210938,
+                205.97242736816406
+            ],
+            "raw_box": [
+                66.47250366210938,
+                205.97242736816406
+            ],
+            "label": 0,
+            "proposal_score": 0.3820016384124756,
+            "sentence": [
+                "measuring the temperature of a person using a pen to ensure proper alignment and prevent potential potential injuries.",
+                "assessing a temperature levels with a tool can improve the chances of any injuries.",
+                "a healthcare provider can assess the condition of an ankle following a thorough treatment plan."
+            ],
+            "sentence_score": -221.6528778076172,
+            "cl_score": 0.0,
+            "query_id": 5,
+            "vid_duration": 205.97242736816406,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "x3YFqBzO5Uw": [
+        {
+            "timestamp": [
+                71.51499938964844,
+                148.84869384765625
+            ],
+            "raw_box": [
+                71.51499938964844,
+                148.84869384765625
+            ],
+            "label": 0,
+            "proposal_score": 0.3502767086029053,
+            "sentence": [
+                "engaging in the the child's pose exercise can help alleviate symptoms of hiatal hernias.",
+                "regularly stretching the glute and lower trap muscles may reduce discomfort associated with hiatal hernias.",
+                "regularly practicing the bird dog exercise may improve flexibility in your head and shoulders."
+            ],
+            "sentence_score": -221.7471466064453,
+            "cl_score": 0.0,
+            "query_id": 9,
+            "vid_duration": 148.84869384765625,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "kSpggqOLgaU": [
+        {
+            "timestamp": [
+                37.098976135253906,
+                237.05755615234375
+            ],
+            "raw_box": [
+                37.098976135253906,
+                237.05755615234375
+            ],
+            "label": 0,
+            "proposal_score": 0.43786951899528503,
+            "sentence": [
+                "to the patient's nose, properly cleaning the nose can assist in removing the needle from the airway.",
+                "properly cleaning the nose with a swab can aid in the healing process of the gums.",
+                "using a swab to pull pressure from the nose can help ensure proper nasal drainage and prevent potential infections."
+            ],
+            "sentence_score": -221.6628875732422,
+            "cl_score": 0.0,
+            "query_id": 4,
+            "vid_duration": 450.21600341796875,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                309.35882568359375,
+                418.6491394042969
+            ],
+            "raw_box": [
+                309.35882568359375,
+                418.6491394042969
+            ],
+            "label": 0,
+            "proposal_score": 0.367086261510849,
+            "sentence": [
+                "a flurmometer from the gums can be safely through a clean and effective way to remove the airway.",
+                "properly cleaning and using a toothstick can help clear your nose from the nasalway and promote healing.",
+                "properly using a flubleab can effectively help clear air from your nose from nasal congestion."
+            ],
+            "sentence_score": -221.60560607910156,
+            "cl_score": 0.0,
+            "query_id": 22,
+            "vid_duration": 450.21600341796875,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                353.06719970703125,
+                374.5860595703125
+            ],
+            "raw_box": [
+                353.06719970703125,
+                374.5860595703125
+            ],
+            "label": 0,
+            "proposal_score": 0.1551993489265442,
+            "sentence": [
+                "properly removing the test gently using a swab can help diagnose nasal congestion.",
+                "a needle swab from one point in your nose and using the tip to push it in the nose through to pressure from the nose.",
+                "using a swab to remove theus from a nose can help alleviate a nose."
+            ],
+            "sentence_score": -221.64512634277344,
+            "cl_score": 0.0,
+            "query_id": 64,
+            "vid_duration": 450.21600341796875,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "1Nr6wPFz09A": [
+        {
+            "timestamp": [
+                38.07832717895508,
+                159.67794799804688
+            ],
+            "raw_box": [
+                38.07832717895508,
+                159.67794799804688
+            ],
+            "label": 0,
+            "proposal_score": 0.27756714820861816,
+            "sentence": [
+                "if you experience a pinched nerve, you may have an ice ball, you may have a potential pinched nerve in the neck.",
+                "regularly massaging the neck area can help alleviate symptoms like neck pain and tension.",
+                "using an ice can help alleviate pain associated with pinched nerve by strengthening the muscles around the spine."
+            ],
+            "sentence_score": -221.61123657226562,
+            "cl_score": 0.0,
+            "query_id": 10,
+            "vid_duration": 226.3260955810547,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                141.785888671875,
+                166.2933807373047
+            ],
+            "raw_box": [
+                141.785888671875,
+                166.2933807373047
+            ],
+            "label": 0,
+            "proposal_score": 0.21184594929218292,
+            "sentence": [
+                "regular neck self - massages may reduce tension in the neck and promote better alignment.",
+                "applying gentle pressure to the neck can help alleviate symptoms of cervical spasms.",
+                "regular self - massage techniques can be used to alleviate discomfort associated with pinched nerve in the neck."
+            ],
+            "sentence_score": -221.67034912109375,
+            "cl_score": 0.0,
+            "query_id": 64,
+            "vid_duration": 226.3260955810547,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ],
+    "v0HODFTrkqs": [
+        {
+            "timestamp": [
+                5.180257320404053,
+                36.00263214111328
+            ],
+            "raw_box": [
+                5.180257320404053,
+                36.00263214111328
+            ],
+            "label": 0,
+            "proposal_score": 0.46410948038101196,
+            "sentence": [
+                "applying a drops to the side of the ear is essential for treating the risk of infection.",
+                "properly using insulin to effectively treat the wound ear helps in relieving symptoms associated with draining.",
+                "applying an ear drops provider can help identify the ear's function by assessing the process."
+            ],
+            "sentence_score": -221.6998291015625,
+            "cl_score": 0.0,
+            "query_id": 70,
+            "vid_duration": 36.00263214111328,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "Zs8Fs5HaJHs": [
+        {
+            "timestamp": [
+                54.37409591674805,
+                190.59039306640625
+            ],
+            "raw_box": [
+                54.37409591674805,
+                190.59039306640625
+            ],
+            "label": 0,
+            "proposal_score": 0.3258815407752991,
+            "sentence": [
+                "regular breathing exercises are beneficial for maintaining lung stability and promoting better oxygen flow during respiratory function.",
+                "using a nebulizer for a nose spirometry can help manage the risk of respiratory issues.",
+                "properly using a nebulizer is important for preventing respiratory complications from respiratory issues."
+            ],
+            "sentence_score": -221.678466796875,
+            "cl_score": 0.0,
+            "query_id": 13,
+            "vid_duration": 190.59039306640625,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "VYXSyQmTAXQ": [
+        {
+            "timestamp": [
+                96.73251342773438,
+                501.79217529296875
+            ],
+            "raw_box": [
+                96.73251342773438,
+                501.79217529296875
+            ],
+            "label": 0,
+            "proposal_score": 0.42014995217323303,
+            "sentence": [
+                "using a foam roller to hip flexors can help alleviate symptoms and improve overall leg function.",
+                "regularly stretching the quadricep muscles may help reduce discomfort associated with osteoarthritis.",
+                "regularly stretching the hamstrings can help reduce discomfort associated with osgood schlatter disease."
+            ],
+            "sentence_score": -221.7078399658203,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                452.2549743652344,
+                515.3995971679688
+            ],
+            "raw_box": [
+                452.2549743652344,
+                515.3995971679688
+            ],
+            "label": 0,
+            "proposal_score": 0.36508652567863464,
+            "sentence": [
+                "incorporating the quadricep muscles into your daily routine can enhance flexibility and improve mobility.",
+                "incorporating knee massages into your daily routine can help alleviate pain associated with knee pain.",
+                "massaging the leg while lying down can help alleviate discomfort associated with osgood schlatter disease or injury."
+            ],
+            "sentence_score": -221.6999053955078,
+            "cl_score": 0.0,
+            "query_id": 4,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                45.7387580871582,
+                97.91439819335938
+            ],
+            "raw_box": [
+                45.7387580871582,
+                97.91439819335938
+            ],
+            "label": 0,
+            "proposal_score": 0.21070720255374908,
+            "sentence": [
+                "using a stick to remove the ice from an ice can be used to alleviate a shoulder pain.",
+                "regularly practicing a shoulder can promote proper range of motion in the hip joint for individuals with a pinched nerve.",
+                "regularly using a broomstick can aid in the treatment of shoulder pain by promoting overall mobility and function in the affected area."
+            ],
+            "sentence_score": -221.7113800048828,
+            "cl_score": 0.0,
+            "query_id": 38,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "kyEF16tBBxo": [
+        {
+            "timestamp": [
+                43.22688293457031,
+                192.66612243652344
+            ],
+            "raw_box": [
+                43.22688293457031,
+                192.66612243652344
+            ],
+            "label": 0,
+            "proposal_score": 0.49886828660964966,
+            "sentence": [
+                "strengthening the muscles around the knee joint can help strengthen the affected area, potentially reducing discomfort associated with knee pain.",
+                "engaging in tailbones can help strengthen the muscles around the knees, which may indicate the presence of varicose veins or hernias.",
+                "strengthening the glutes through lying down can improve spinal flexibility and strengthen the muscles in the knees, promoting spinal health."
+            ],
+            "sentence_score": -221.63539123535156,
+            "cl_score": 0.0,
+            "query_id": 63,
+            "vid_duration": 206.8316192626953,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "CEgMHaXGhmQ": [
+        {
+            "timestamp": [
+                261.20465087890625,
+                530.3983154296875
+            ],
+            "raw_box": [
+                261.20465087890625,
+                530.3983154296875
+            ],
+            "label": 0,
+            "proposal_score": 0.3371107280254364,
+            "sentence": [
+                "incorporating hip stretching exercises with a hip pen into your routine may provide relief from a leg pain by promoting blood flow and reducing muscle tension.",
+                "regularly performing hip stretches with a stick can help alleviate pain associated with osgood schlatter's disease.",
+                "regularly using a stick to stretch the knee can reduce stiffness and improve range of motion."
+            ],
+            "sentence_score": -221.6699676513672,
+            "cl_score": 0.0,
+            "query_id": 49,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                46.310787200927734,
+                198.99688720703125
+            ],
+            "raw_box": [
+                46.310787200927734,
+                198.99688720703125
+            ],
+            "label": 0,
+            "proposal_score": 0.33129632472991943,
+            "sentence": [
+                "performing exercises that help alleviate back pain by strengthening the muscles around the head and knees.",
+                "incorporating the back muscles can help alleviate sciatica symptoms by targeting specific muscle groups to support the recovery process.",
+                "incorporating wall slides into your exercise routine can aid in maintaining balance and reducing discomfort associated with a back pain."
+            ],
+            "sentence_score": -221.65338134765625,
+            "cl_score": 0.0,
+            "query_id": 46,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                232.14328002929688,
+                306.70458984375
+            ],
+            "raw_box": [
+                232.14328002929688,
+                306.70458984375
+            ],
+            "label": 0,
+            "proposal_score": 0.22238163650035858,
+            "sentence": [
+                "incorporating self - massaging the lower back of the elbow may provide relief from symptoms of osteoporosis and promote flexibility.",
+                "regularly performing wall stretches may alleviate discomfort associated with a tennis elbow injury.",
+                "regularly stretching the affected area of your shoulder may provide relief from symptoms of shoulder discomfort."
+            ],
+            "sentence_score": -221.73028564453125,
+            "cl_score": 0.0,
+            "query_id": 36,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "bUgV89cdfTM": [
+        {
+            "timestamp": [
+                18.295425415039062,
+                104.19999694824219
+            ],
+            "raw_box": [
+                18.295425415039062,
+                104.19999694824219
+            ],
+            "label": 0,
+            "proposal_score": 0.47246837615966797,
+            "sentence": [
+                "performing leg extension exercises can help alleviate symptoms such as pain and promote overall leg health.",
+                "applying a cold bandage can reduce discomfort associated with arthritis associated with a sprain.",
+                "engaging in quadricep muscle therapy can aid in reducing muscle tension and promoting better healing."
+            ],
+            "sentence_score": -221.72830200195312,
+            "cl_score": 0.0,
+            "query_id": 74,
+            "vid_duration": 104.19999694824219,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "GUg4zMpchhk": [
+        {
+            "timestamp": [
+                211.17440795898438,
+                472.8927917480469
+            ],
+            "raw_box": [
+                211.17440795898438,
+                472.8927917480469
+            ],
+            "label": 0,
+            "proposal_score": 0.35372963547706604,
+            "sentence": [
+                "regularly performing a splint can help relieve pain associated with arthritis.",
+                "applying a compression band to the shoulder may provide relief from a pinched nerve during a bulging nerve.",
+                "a compression or massage technique can be performed to reduce pain and increase mobility in the affected area."
+            ],
+            "sentence_score": -221.73983764648438,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 529.29541015625,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                64.06417846679688,
+                128.6172332763672
+            ],
+            "raw_box": [
+                64.06417846679688,
+                128.6172332763672
+            ],
+            "label": 0,
+            "proposal_score": 0.3093893229961395,
+            "sentence": [
+                "applying a tourniquet can reduce discomfort caused by a pinched nerve in the shoulder or neck area.",
+                "applying a cold compressure to the shoulder can help alleviate shoulder pain and improve overall shoulder function.",
+                "using a cold compress and an ice can help alleviate a pinched nerve in the upper back."
+            ],
+            "sentence_score": -221.70791625976562,
+            "cl_score": 0.0,
+            "query_id": 6,
+            "vid_duration": 529.29541015625,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ],
+    "fsdchGejKmU": [
+        {
+            "timestamp": [
+                84.25686645507812,
+                202.40318298339844
+            ],
+            "raw_box": [
+                84.25686645507812,
+                202.40318298339844
+            ],
+            "label": 0,
+            "proposal_score": 0.5038037896156311,
+            "sentence": [
+                "incorporating chest exercises with a bath ball into your routine can aid in improving spinal strength and reducing stiffness.",
+                "regularly performing the atl's exercise may alleviate back pain by strengthening the muscles in the spine and improving overall stability.",
+                "regularly practicing the atte exercise with a towel can aid in strengthening the rotator cuff muscles and reducing the risk of lower back pain."
+            ],
+            "sentence_score": -221.70278930664062,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                220.25186157226562,
+                314.4071350097656
+            ],
+            "raw_box": [
+                220.25186157226562,
+                314.4071350097656
+            ],
+            "label": 0,
+            "proposal_score": 0.34252116084098816,
+            "sentence": [
+                "regularly practicing chin tucks may provide relief from neck pain by reducing pressure on the neck and shoulders.",
+                "strengthening the muscles around the head with your back can help improve flexibility and support.",
+                "incorporating the head - exercises into your routine can help improve neck flexibility and prevent stiffness."
+            ],
+            "sentence_score": -221.71731567382812,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                313.0879821777344,
+                407.1376953125
+            ],
+            "raw_box": [
+                313.0879821777344,
+                407.1376953125
+            ],
+            "label": 0,
+            "proposal_score": 0.3339501619338989,
+            "sentence": [
+                "regularly practicing the mckenzie extensors stretch may enhance muscle flexibility and reduce discomfort.",
+                "regularly practicing a hanging neck stretches may provide relief from neck pain and improve posture.",
+                "incorporating chest extension stretches into your routine can help alleviate pain associated with hiatal hernias."
+            ],
+            "sentence_score": -221.72671508789062,
+            "cl_score": 0.0,
+            "query_id": 37,
+            "vid_duration": 546.0,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "_RNMIizfDEY": [
+        {
+            "timestamp": [
+                229.828369140625,
+                618.2982788085938
+            ],
+            "raw_box": [
+                229.828369140625,
+                618.2982788085938
+            ],
+            "label": 0,
+            "proposal_score": 0.40130820870399475,
+            "sentence": [
+                "performing the hamstring exercise can help alleviate tailbone pain by improving flexibility and reducing the risk of developing strain.",
+                "strengthening the hips and butt muscles through a hamstring exercise can help alleviate pain associated with a herniated disc.",
+                "including hip tilt exercises with a warm compressor can aid in relieving knee pain by promoting better range of motion."
+            ],
+            "sentence_score": -221.69696044921875,
+            "cl_score": 0.0,
+            "query_id": 72,
+            "vid_duration": 683.0,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                64.02501678466797,
+                134.4984893798828
+            ],
+            "raw_box": [
+                64.02501678466797,
+                134.4984893798828
+            ],
+            "label": 0,
+            "proposal_score": 0.23589180409908295,
+            "sentence": [
+                "regularly doing hip flexor stretch can aid in reducing discomfort and enhancing mobility.",
+                "incorporating hamstring stretching exercises into your exercise regimen can aid in strengthening the muscles around the knee, potentially reducing the risk of injuries.",
+                "stretching the piriformis muscle can help alleviate tightness and improve flexibility while seated."
+            ],
+            "sentence_score": -221.74307250976562,
+            "cl_score": 0.0,
+            "query_id": 28,
+            "vid_duration": 683.0,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ],
+    "0CD3mYjPXxk": [
+        {
+            "timestamp": [
+                85.52084350585938,
+                157.47999572753906
+            ],
+            "raw_box": [
+                85.52084350585938,
+                157.47999572753906
+            ],
+            "label": 0,
+            "proposal_score": 0.38986510038375854,
+            "sentence": [
+                "applying shoulder rotation exercises into your routine may alleviate discomfort and improve shoulder flexibility of the shoulder joint.",
+                "incorporating shoulder external rotation exercises with a broomstick into your routine can assist in addressing shoulder pain and enhancing range of motion.",
+                "strengtheningator cuff muscles with a broomstick can help alleviate rotator cuff pain."
+            ],
+            "sentence_score": -221.670654296875,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 157.47999572753906,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "_hb7isbiW3s": [
+        {
+            "timestamp": [
+                51.78297424316406,
+                265.54693603515625
+            ],
+            "raw_box": [
+                51.78297424316406,
+                265.54693603515625
+            ],
+            "label": 0,
+            "proposal_score": 0.3704017400741577,
+            "sentence": [
+                "regularly practicing gentle pressure and gentle pressure on the skin may provide relief and prevent muscle tightness.",
+                "incorporating gentle pressure to the neck muscles can enhance range of motion in the neck joint.",
+                "applying gentle pressure and gentle pressure to the neck area can help alleviate tension in the neck."
+            ],
+            "sentence_score": -221.73556518554688,
+            "cl_score": 0.0,
+            "query_id": 2,
+            "vid_duration": 304.0039978027344,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                142.75112915039062,
+                176.4155731201172
+            ],
+            "raw_box": [
+                142.75112915039062,
+                176.4155731201172
+            ],
+            "label": 0,
+            "proposal_score": 0.2421754002571106,
+            "sentence": [
+                "incorporating head massage with specific techniques into your routine can help improve neck flexibility and reduce tension in the muscles.",
+                "applying gentle pressure to the head can help alleviate neck pain and improve flexibility in the neck muscles.",
+                "regularly performing gentle pressure to alleviate tension in the neck and shoulders, enhancing flexibility."
+            ],
+            "sentence_score": -221.708984375,
+            "cl_score": 0.0,
+            "query_id": 79,
+            "vid_duration": 304.0039978027344,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                221.11695861816406,
+                250.0248260498047
+            ],
+            "raw_box": [
+                221.11695861816406,
+                250.0248260498047
+            ],
+            "label": 0,
+            "proposal_score": 0.2218722701072693,
+            "sentence": [
+                "incorporating chin tucks into your daily routine can provide relief from stress associated with headaches and headaches.",
+                "performing gentle pressure and massage with your fingers can help alleviate tension in the spine and improve circulation.",
+                "practicing head massages may aid in reducing neck pain by promoting overall neck health and reducing tension."
+            ],
+            "sentence_score": -221.71583557128906,
+            "cl_score": 0.0,
+            "query_id": 20,
+            "vid_duration": 304.0039978027344,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "B9yiDTONlOs": [
+        {
+            "timestamp": [
+                93.82012939453125,
+                138.35850524902344
+            ],
+            "raw_box": [
+                93.82012939453125,
+                138.35850524902344
+            ],
+            "label": 0,
+            "proposal_score": 0.3120504319667816,
+            "sentence": [
+                "regularly doing self - massage techniques can target knots in the upper back and improve range of motion in the neck area.",
+                "self - massaging the neck with gentle pressure can help alleviate tension in the neck muscles.",
+                "self - massaging the head and shoulders with an ice cream can help alleviate tension and improve range of motion."
+            ],
+            "sentence_score": -221.66845703125,
+            "cl_score": 0.0,
+            "query_id": 26,
+            "vid_duration": 156.3228302001953,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "ma_cmlU9DxU": [
+        {
+            "timestamp": [
+                27.38570213317871,
+                143.64349365234375
+            ],
+            "raw_box": [
+                27.38570213317871,
+                143.64349365234375
+            ],
+            "label": 0,
+            "proposal_score": 0.5421569347381592,
+            "sentence": [
+                "properly using an asthma inhaler correctly can help ensure proper breathing and prevent further complications.",
+                "utilizing a nebulizer technique can help alleviate symptoms of asthma effectively.",
+                "properly using an asthma inhaler involves administering a small medication to the asthma and improving breathing flow."
+            ],
+            "sentence_score": -221.70387268066406,
+            "cl_score": 0.0,
+            "query_id": 25,
+            "vid_duration": 143.64349365234375,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "-Zx3pWhMBjw": [
+        {
+            "timestamp": [
+                23.056865692138672,
+                131.14039611816406
+            ],
+            "raw_box": [
+                23.056865692138672,
+                131.14039611816406
+            ],
+            "label": 0,
+            "proposal_score": 0.3212924599647522,
+            "sentence": [
+                "incorporating cross - and - shoulder squeezes with a stick into your routine can aid in correcting the bone and promoting proper alignment of the affected area.",
+                "massaging the the head and shoulders with the head and chin can aid in managing discomfort associated with a bone injury.",
+                "incorporating reattachment to the shoulder and chin can assist in reducing the risk of injuries and promoting proper posture during a stroke."
+            ],
+            "sentence_score": -221.66217041015625,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 233.13290405273438,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                108.99205017089844,
+                168.01974487304688
+            ],
+            "raw_box": [
+                108.99205017089844,
+                168.01974487304688
+            ],
+            "label": 0,
+            "proposal_score": 0.23260559141635895,
+            "sentence": [
+                "the cross - and - chest muscles can help alleviate discomfort and promote better alignment.",
+                "performing self - massage techniques can reduce tension and improve neck flexibility.",
+                "self - massaging the shoulder and arm gently can provide relief from shoulder pain by reducing the risk of muscle tension."
+            ],
+            "sentence_score": -221.66676330566406,
+            "cl_score": 0.0,
+            "query_id": 4,
+            "vid_duration": 233.13290405273438,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                151.2518768310547,
+                199.98907470703125
+            ],
+            "raw_box": [
+                151.2518768310547,
+                199.98907470703125
+            ],
+            "label": 0,
+            "proposal_score": 0.2069857269525528,
+            "sentence": [
+                "massaging the shoulder and shoulder pain can be prevent muscle knots and improve flexibility.",
+                "self - massaging the upper shoulder can help alleviate tension and improve neck flexibility.",
+                "self - massaging the shoulder may provide relief for a bone density nerve."
+            ],
+            "sentence_score": -221.65194702148438,
+            "cl_score": 0.0,
+            "query_id": 33,
+            "vid_duration": 233.13290405273438,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "4h3V6F4Rl_k": [
+        {
+            "timestamp": [
+                162.1865997314453,
+                382.27593994140625
+            ],
+            "raw_box": [
+                162.1865997314453,
+                382.27593994140625
+            ],
+            "label": 0,
+            "proposal_score": 0.3206266164779663,
+            "sentence": [
+                "regularly performing the gentle back movement may provide relief from symptoms of a pinched nerve in the neck.",
+                "applying gentle gentle pressure to the affected area can help alleviate tension and discomfort.",
+                "stretching the shoulder may provide pain relief by reducing stiffness and improving range of motion in the area."
+            ],
+            "sentence_score": -221.72637939453125,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 405.1047058105469,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                346.29681396484375,
+                385.7473449707031
+            ],
+            "raw_box": [
+                346.29681396484375,
+                385.7473449707031
+            ],
+            "label": 0,
+            "proposal_score": 0.2626892626285553,
+            "sentence": [
+                "incorporating self - massage techniques into your routine can help increase range of motion in the neck and shoulders.",
+                "incorporating gentle pressure and a circular motions into your routine can provide relief from muscle knots and enhance flexibility.",
+                "incorporating isometric neck movements into your routine can reduce discomfort associated with neck pain and improve flexibility."
+            ],
+            "sentence_score": -221.73097229003906,
+            "cl_score": 0.0,
+            "query_id": 34,
+            "vid_duration": 405.1047058105469,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                17.384422302246094,
+                232.1530303955078
+            ],
+            "raw_box": [
+                17.384422302246094,
+                232.1530303955078
+            ],
+            "label": 0,
+            "proposal_score": 0.2610832750797272,
+            "sentence": [
+                "incorporating chin tucks into your routine may aid in relieving muscle tension and strengthening.",
+                "the correct position of your chest to the side of a wall may indicate the recovery from a pinched nerve in the neck area.",
+                "regularly stretching the upper shoulder can help alleviate pain and improve flexibility in the joint."
+            ],
+            "sentence_score": -221.72293090820312,
+            "cl_score": 0.0,
+            "query_id": 80,
+            "vid_duration": 405.1047058105469,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "CWRWeoaqi8k": [
+        {
+            "timestamp": [
+                257.5575866699219,
+                396.8191223144531
+            ],
+            "raw_box": [
+                257.5575866699219,
+                396.8191223144531
+            ],
+            "label": 0,
+            "proposal_score": 0.4251355528831482,
+            "sentence": [
+                "engaging in a floor slides exercises may help improve balance and stability in the lower back.",
+                "strengthening the hamstring muscles can be achieved by practicing the modified modified side plank exercise.",
+                "strengthening the glute and hip abduction exercise can help enhance your hip mobility and prevent the likelihood of potential injuries."
+            ],
+            "sentence_score": -221.73532104492188,
+            "cl_score": 0.0,
+            "query_id": 15,
+            "vid_duration": 422.2218017578125,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                182.99966430664062,
+                274.2780456542969
+            ],
+            "raw_box": [
+                182.99966430664062,
+                274.2780456542969
+            ],
+            "label": 0,
+            "proposal_score": 0.32030293345451355,
+            "sentence": [
+                "performing side planks with a swiss ball or band can aid in strengthening the muscles around the ankle joint.",
+                "incorporating side planks into your exercise routine can aid in improving core stability and reducing the risk of injuries.",
+                "improving overall hip stability in the hip abductor muscles is crucial for reducing stiffness and promoting overall joint function."
+            ],
+            "sentence_score": -221.73422241210938,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 422.2218017578125,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                67.7140884399414,
+                202.09109497070312
+            ],
+            "raw_box": [
+                67.7140884399414,
+                202.09109497070312
+            ],
+            "label": 0,
+            "proposal_score": 0.3161824345588684,
+            "sentence": [
+                "strengthening the hamstring muscles can be achieved by performing bird dog exercises.",
+                "regularly incorporating bird dog exercises into your routine may reduce pain and enhance posture.",
+                "regularly practicing bird dogs exercises can aid in preventing hip injuries by promoting better lower body strength."
+            ],
+            "sentence_score": -221.68411254882812,
+            "cl_score": 0.0,
+            "query_id": 40,
+            "vid_duration": 422.2218017578125,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "dqtqS_OVDGw": [
+        {
+            "timestamp": [
+                52.63996887207031,
+                120.33686065673828
+            ],
+            "raw_box": [
+                52.63996887207031,
+                120.33686065673828
+            ],
+            "label": 0,
+            "proposal_score": 0.39906424283981323,
+            "sentence": [
+                "regularly incorporating self - massage with a lacrosse ball into your routine may alleviate symptoms of ankle pain.",
+                "regularly incorporating foot ball massage with a lacrosse ball into your exercise routine may provide relief from knee pain and improve circulation.",
+                "incorporating self - massage with a lacrosse ball in your routine can enhance the flexibility and reduce discomfort."
+            ],
+            "sentence_score": -221.6427459716797,
+            "cl_score": 0.0,
+            "query_id": 91,
+            "vid_duration": 474.67999267578125,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                318.3116760253906,
+                396.5553283691406
+            ],
+            "raw_box": [
+                318.3116760253906,
+                396.5553283691406
+            ],
+            "label": 0,
+            "proposal_score": 0.3180680274963379,
+            "sentence": [
+                "regularly massaging the foot and buttock can provide relief from discomfort associated with foot pain.",
+                "incorporating lacrosse ball massage exercises into your daily routine can target specific points of the injured area and alleviate pain and promote better muscle mobility.",
+                "incorporating foot massages with a lacrosse ball into your routine can enhance muscle relaxation and support better range of motion."
+            ],
+            "sentence_score": -221.6982879638672,
+            "cl_score": 0.0,
+            "query_id": 38,
+            "vid_duration": 474.67999267578125,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                92.01956176757812,
+                375.0380554199219
+            ],
+            "raw_box": [
+                92.01956176757812,
+                375.0380554199219
+            ],
+            "label": 0,
+            "proposal_score": 0.26205259561538696,
+            "sentence": [
+                "regularly massaging the affected area with a lacrosse ball may aid in preventing muscle knots.",
+                "incorporating foot massage exercises into your routine can enhance the risk of osteoarthritis.",
+                "regularly incorporating sports - ball massage exercises into your routine may improve flexibility and strength."
+            ],
+            "sentence_score": -221.64208984375,
+            "cl_score": 0.0,
+            "query_id": 29,
+            "vid_duration": 474.67999267578125,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "R9oWYkK_l3M": [
+        {
+            "timestamp": [
+                15.125479698181152,
+                148.19027709960938
+            ],
+            "raw_box": [
+                15.125479698181152,
+                148.19027709960938
+            ],
+            "label": 0,
+            "proposal_score": 0.3759381175041199,
+            "sentence": [
+                "properly preparing blood is essential when administering a blood injection to a patient's hand involves following an crucial method to address blood loss.",
+                "properly using blood flow techniques on the arm can help stop blood flow and promote healing.",
+                "properly using pressure on the blood is the process to stop severe bleeding."
+            ],
+            "sentence_score": -221.6158447265625,
+            "cl_score": 0.0,
+            "query_id": 3,
+            "vid_duration": 164.33082580566406,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "Y9-54bnvPGg": [
+        {
+            "timestamp": [
+                0.0,
+                36.96409606933594
+            ],
+            "raw_box": [
+                0.0,
+                36.96409606933594
+            ],
+            "label": 0,
+            "proposal_score": 0.40067872405052185,
+            "sentence": [
+                "stretching and performing a stomach can help alleviate rounded shoulders and improve posture.",
+                "incorporating stomach exercises into your routine can help improve balance and strengthen the lower back, leading to faster spinal alignment.",
+                "incorporating a supine bed into your routine can help alleviate lower back pain."
+            ],
+            "sentence_score": -221.65673828125,
+            "cl_score": 0.0,
+            "query_id": 20,
+            "vid_duration": 43.5101318359375,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "T43753AfaKY": [
+        {
+            "timestamp": [
+                103.7365493774414,
+                259.7037658691406
+            ],
+            "raw_box": [
+                103.7365493774414,
+                259.7037658691406
+            ],
+            "label": 0,
+            "proposal_score": 0.3470739424228668,
+            "sentence": [
+                "regularly practicing wall stretches may alleviate rounded shoulders by strengthening the muscles of the upper back and shoulders.",
+                "regularly performing pull ups can help improve flexibility and reduce stiffness in the shoulders.",
+                "applying pressure to the wall with the arms can provide relief from back pain and promote healing."
+            ],
+            "sentence_score": -221.7134246826172,
+            "cl_score": 0.0,
+            "query_id": 86,
+            "vid_duration": 280.8800048828125,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                157.56715393066406,
+                185.61976623535156
+            ],
+            "raw_box": [
+                157.56715393066406,
+                185.61976623535156
+            ],
+            "label": 0,
+            "proposal_score": 0.250728577375412,
+            "sentence": [
+                "regularly practicing pull - out stretches may alleviate tension in the upper shoulder and improve overall neck function.",
+                "performing the pull - out stretch can help alleviate neck pain and improve overall neck stability.",
+                "performing a chin tuck exercise may provide relief from neck pain by reducing tension and improving range of motion in the neck muscles."
+            ],
+            "sentence_score": -221.71173095703125,
+            "cl_score": 0.0,
+            "query_id": 33,
+            "vid_duration": 280.8800048828125,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                71.29597473144531,
+                113.71308135986328
+            ],
+            "raw_box": [
+                71.29597473144531,
+                113.71308135986328
+            ],
+            "label": 0,
+            "proposal_score": 0.21596059203147888,
+            "sentence": [
+                "engaging in the standing can lead to better muscle mobility and reducing the risk of shoulder pain.",
+                "strengthening the chest muscles with a pulley into your routine may provide relief from a pinched nerve in the chest.",
+                "practicing the high arm exercise can aid in strengthening the muscles around the shoulder joint."
+            ],
+            "sentence_score": -221.70184326171875,
+            "cl_score": 0.0,
+            "query_id": 65,
+            "vid_duration": 280.8800048828125,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "xYFeFFzFftw": [
+        {
+            "timestamp": [
+                51.88338088989258,
+                104.73245239257812
+            ],
+            "raw_box": [
+                51.88338088989258,
+                104.73245239257812
+            ],
+            "label": 0,
+            "proposal_score": 0.4367389678955078,
+            "sentence": [
+                "strengthening the muscles in the upper back can be achieved by stretching the muscles around the neck.",
+                "stretching the upper back muscles can help alleviate stiffness and improve neck flexibility.",
+                "regularly stretching the upper back and neck muscles can help alleviate tension in the muscles."
+            ],
+            "sentence_score": -221.6660614013672,
+            "cl_score": 0.0,
+            "query_id": 5,
+            "vid_duration": 565.4583129882812,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                108.6329116821289,
+                232.74966430664062
+            ],
+            "raw_box": [
+                108.6329116821289,
+                232.74966430664062
+            ],
+            "label": 0,
+            "proposal_score": 0.4081895649433136,
+            "sentence": [
+                "stretching the upper back muscles can help alleviate neck pain and improve mobility.",
+                "stretching the shoulder muscles may provide relief from discomfort associated with a pinched nerve.",
+                "stretching the neck muscles can be achieved by performing a side roll can help alleviate neck tension and improve range of motion."
+            ],
+            "sentence_score": -221.71649169921875,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 565.4583129882812,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                456.5885925292969,
+                562.1527099609375
+            ],
+            "raw_box": [
+                456.5885925292969,
+                562.1527099609375
+            ],
+            "label": 0,
+            "proposal_score": 0.32428261637687683,
+            "sentence": [
+                "regularly practicing chin tucks may alleviate neck pain and stiffness in the neck and shoulders.",
+                "regularly practicing chin tucks may provide relief from headaches and improve overall neck health.",
+                "performing neck pain and improve blood circulation through the head and shoulders, potentially reducing tension in the neck muscles and improve range of motion."
+            ],
+            "sentence_score": -221.72933959960938,
+            "cl_score": 0.0,
+            "query_id": 66,
+            "vid_duration": 565.4583129882812,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "M6UBlnV1Cyk": [
+        {
+            "timestamp": [
+                28.207077026367188,
+                263.47418212890625
+            ],
+            "raw_box": [
+                28.207077026367188,
+                263.47418212890625
+            ],
+            "label": 0,
+            "proposal_score": 0.31823915243148804,
+            "sentence": [
+                "strengthening the muscles around the neck can be achieved by lifting the arm slightly to help alleviate the stiffness.",
+                "regularly practicing a high - shoulder stretch may help reduce tension and promote relaxation.",
+                "incorporating gentle back stretches into your exercise routine may improve flexibility and reduce the risk of shoulder impingement."
+            ],
+            "sentence_score": -221.64459228515625,
+            "cl_score": 0.0,
+            "query_id": 12,
+            "vid_duration": 405.5301208496094,
+            "pred_event_count": 3,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                147.70889282226562,
+                184.19468688964844
+            ],
+            "raw_box": [
+                147.70889282226562,
+                184.19468688964844
+            ],
+            "label": 0,
+            "proposal_score": 0.2122689038515091,
+            "sentence": [
+                "practicing breathing exercises can help prevent lung discomfort and promote better oxygen levels.",
+                "by incorporating a extensor pose into your daily routine, you can effectively improve shoulder stability and prevent further discomfort.",
+                "practicing the breathing exercise can enhance lung capacity and reduce the risk of developing spinal injuries."
+            ],
+            "sentence_score": -221.72509765625,
+            "cl_score": 0.0,
+            "query_id": 80,
+            "vid_duration": 405.5301208496094,
+            "pred_event_count": 3,
+            "event_id": 1
+        },
+        {
+            "timestamp": [
+                59.610565185546875,
+                90.60610961914062
+            ],
+            "raw_box": [
+                59.610565185546875,
+                90.60610961914062
+            ],
+            "label": 0,
+            "proposal_score": 0.20263609290122986,
+            "sentence": [
+                "regularly practicing the range of motion can improve flexibility and reduce the risk of tmj pain.",
+                "incorporating specific exercises into your routine can help relieve stiffness in the neck and shoulders.",
+                "regularly practicing cross - body stretching techniques can improve lung function and reduce the risk of a pinched nerve in the spine."
+            ],
+            "sentence_score": -221.7052764892578,
+            "cl_score": 0.0,
+            "query_id": 43,
+            "vid_duration": 405.5301208496094,
+            "pred_event_count": 3,
+            "event_id": 2
+        }
+    ],
+    "PA9hpOnvtCk": [
+        {
+            "timestamp": [
+                45.420711517333984,
+                144.63999938964844
+            ],
+            "raw_box": [
+                45.420711517333984,
+                144.63999938964844
+            ],
+            "label": 0,
+            "proposal_score": 0.2765151560306549,
+            "sentence": [
+                "regularly practicing squeezes can enhance neck flexibility and alleviate muscle knots.",
+                "maintaining proper posture during a tuck or squamous maneuver involves observing the signs of a pinched nerve in the neck.",
+                "engaging in a squamous attack and sputum involves observing potential injuries, including sudden complications, or difficulty."
+            ],
+            "sentence_score": -221.6104278564453,
+            "cl_score": 0.0,
+            "query_id": 7,
+            "vid_duration": 144.63999938964844,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "xIomu6zZEpU": [
+        {
+            "timestamp": [
+                41.771751403808594,
+                55.64385986328125
+            ],
+            "raw_box": [
+                41.771751403808594,
+                55.64385986328125
+            ],
+            "label": 0,
+            "proposal_score": 0.29288816452026367,
+            "sentence": [
+                "using a squeezer on the patient's hand can help assess cross - - eye issues or discomfort.",
+                "regularly using a blood pressure test can determine any symptoms of a vein or abnormalities.",
+                "using a blood flow test on the affected hand, assessing the strength of the skin and function of the blood flow in the area."
+            ],
+            "sentence_score": -221.68780517578125,
+            "cl_score": 0.0,
+            "query_id": 0,
+            "vid_duration": 59.36000061035156,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "Cec1-mcZOp8": [
+        {
+            "timestamp": [
+                15.682558059692383,
+                41.05948257446289
+            ],
+            "raw_box": [
+                15.682558059692383,
+                41.05948257446289
+            ],
+            "label": 0,
+            "proposal_score": 0.38047003746032715,
+            "sentence": [
+                "performing a self - massage routine can help strengthen the muscles around the body, improving flexibility and strength of the body.",
+                "using a healthcare provider for healthcare providers is essential for preventing blood flow and preventing potential issues.",
+                "using a self - massage gun can effectively reduce the risk of blood flow to the body."
+            ],
+            "sentence_score": -221.73959350585938,
+            "cl_score": 0.0,
+            "query_id": 12,
+            "vid_duration": 54.7599983215332,
+            "pred_event_count": 1,
+            "event_id": 0
+        }
+    ],
+    "mL-50vtXHdo&t=47s": [
+        {
+            "timestamp": [
+                72.64069366455078,
+                208.1913299560547
+            ],
+            "raw_box": [
+                72.64069366455078,
+                208.1913299560547
+            ],
+            "label": 0,
+            "proposal_score": 0.31074750423431396,
+            "sentence": [
+                "utilizing a hand gun on your routine can help reduce the risk of skin cancer.",
+                "observing the t regularly through a self - massage machine helps prevent the use of a stroke.",
+                "properly performing self - massage techniques can assist in preventing stiffness and improving overall body function."
+            ],
+            "sentence_score": -221.61593627929688,
+            "cl_score": 0.0,
+            "query_id": 1,
+            "vid_duration": 237.0800018310547,
+            "pred_event_count": 2,
+            "event_id": 0
+        },
+        {
+            "timestamp": [
+                2.8258960247039795,
+                64.87525939941406
+            ],
+            "raw_box": [
+                2.8258960247039795,
+                64.87525939941406
+            ],
+            "label": 0,
+            "proposal_score": 0.2712993919849396,
+            "sentence": [
+                "using a post - stroke machine can assist in improving overall self - being and function after surgery.",
+                "incorporating the grip on the legs can assist in reducing stiffness and promote better spinal function.",
+                "using an automated self - checks device on a self - massage routine helps in the recovery process of a stroke."
+            ],
+            "sentence_score": -221.6573944091797,
+            "cl_score": 0.0,
+            "query_id": 33,
+            "vid_duration": 237.0800018310547,
+            "pred_event_count": 2,
+            "event_id": 1
+        }
+    ]
+}
